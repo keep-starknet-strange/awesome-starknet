@@ -56,7 +56,7 @@
 - [How Cairo Works](https://www.cairo-lang.org/docs/how_cairo_works/index.html) -
   Low-level explanation of Cairo's mechanics.
 - [Hello StarkNet](https://www.cairo-lang.org/docs/hello_starknet/index.html) -
-  Tutorial for writing and deploying a StarkNet contract.
+  Tutorial for writing and deploying a contract.
 - [Hello Cairo](https://www.cairo-lang.org/docs/hello_cairo/index.html) -
   Tutorials for writing various simple Cairo contracts.
 - [Cairo Reference](https://www.cairo-lang.org/docs/reference/index.html) -
@@ -73,9 +73,9 @@
 
 #### Tutorials
 
-- [Unit Testing in Starknet](https://perama-v.github.io/cairo/examples/unit_test/) -
-  Using [`pytest`](https://docs.pytest.org/en/6.2.x/) to test StarkNet contracts
-- [Managing StarkNet deployments with Nile ⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
+- [Unit Testing in StarkNet](https://perama-v.github.io/cairo/examples/unit_test/) -
+  Using [`pytest`](https://docs.pytest.org/en/6.2.x/) to test contracts
+- [Managing StarkNet deployments using Nile ⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
 
 #### Articles
 
@@ -89,10 +89,10 @@
 - [Cairo Concepts Overview](https://perama-v.github.io/cairo/description/) -
   High level overview of concepts encountered in the Cairo ecosystem (Ethereum,
   Smart Contracts, Decentralization, Scaling, L2, Rollups, ZKPs etc.)
-- [Account Abstraction on StarkNet](https://perama-v.github.io/cairo/account-abstraction/) -
+- [Account Abstraction](https://perama-v.github.io/cairo/account-abstraction/) -
   Explanation of StarkNet's account abstraction
-- [Test Accounts on StarkNet](https://perama-v.github.io/cairo/examples/test_accounts/) -
-  Explanation of building test accounts in StarkNet
+- [Test Accounts](https://perama-v.github.io/cairo/examples/test_accounts/) -
+  Explanation of building test accounts
 
 #### Security
 
@@ -101,9 +101,9 @@
 - [Cairo by Example](https://perama-v.github.io/cairo/by-example/) - An
   introduction to [Cairo](https://www.cairo-lang.org/) with simple examples.
 - [Skeleton for StarkNet](https://perama-v.github.io/cairo/examples/building_blocks/skeleton/program_starknet.html)
-  - Quick example of a Minimum StarkNet-verifiable program
+  - Quick example of a Minimum verifiable program
 - [Skeleton for SHARP](https://perama-v.github.io/cairo/examples/building_blocks/skeleton/program_sharp.html)
-  - SHARP programs differ from StarkNet Cairo programs, this shows how to use
+  - SHARP programs differ from Cairo programs, this shows how to use
     SHARP for your own custom Cairo deploys (e.g. if you'd use StarkEx)
 
 ##### Educational
@@ -114,23 +114,22 @@
 ##### Built / Deployed on StarkNet
 
 - [ZigZagExchange](https://github.com/ZigZagExchange/starknet-contracts) -
-  Orderbook DEX on StarkNet
+  Orderbook DEX
 - [physics-puzzle](https://github.com/guiltygyoza/physics-puzzle-starknet) -
-  Physics puzzle on StarkNet
-- [RYO](https://github.com/dopedao/RYO) - Dope Wars game engine on StarkNet
+  Physics puzzle
+- [RYO](https://github.com/dopedao/RYO) - Dope Wars game engine
 - [qasr](https://github.com/mortimr/qasr) - ETH <> StarkNet NFT Bridge
 - [starknet-dai-bridge](https://github.com/makerdao/starknet-dai-bridge) - ETH
   <> StarkNet DAI Bridge
 - [rk4-starknet](https://github.com/guiltygyoza/rk4-starknet) - Runge Kutta 4th
   Order Method on StarkNet
-- [stardrop](https://github.com/kobigurk/stardrop) - Anonymous rewards on
-  StarkNet
+- [stardrop](https://github.com/kobigurk/stardrop) - Anonymous rewards
 - [tictactoe](https://github.com/guiltygyoza/tictactoe-on-starknet) - RL Agent
   playing Tic-Tac-Toe
 - [tiny-dnn-on-starknet](https://github.com/guiltygyoza/tiny-dnn-on-starknet) -
   Deep Neural Net PoC
 - [argent-contracts-starknet](https://github.com/argentlabs/argent-contracts-starknet) -
-  [Argent](https://www.argent.xyz/)'s StarkNet Account contracts
+  [Argent](https://www.argent.xyz/)'s Account contracts
 
 #### Templates
 
@@ -148,24 +147,22 @@
 ## Libraries
 
 - [starknet.js](https://github.com/seanjameshan/starknet.js) - Javascript
-  library for StarkNet
+  library
 - [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) -
   A plugin for integrating Starknet tools into Hardhat projects
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
-  OpenZeppelin Contracts written in Cairo for StarkNet, a decentralized ZK
-  Rollup
+  OpenZeppelin Contracts written in Cairo
 
 ## Tools
 
 #### General
 
-- [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - A local
-  testnet for StarkNet
+- [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - Local
+  testnet
 - [nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet
   projects written in Cairo by OpenZeppelin
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
 - [argent-x](https://github.com/argentlabs/argent-x) - Browser extension wallet
-  for StarkNet
 
 #### Utility
 
