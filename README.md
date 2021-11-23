@@ -29,7 +29,7 @@
   - [Security](#security)
   - [Examples](#examples)
     - [Educational](#educational)
-    - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
+    - [Deployed on StarkNet Mainnet](#deployed-on-starknet-mainnet)
   - [Templates](#templates)
   - [Books](#books)
   - [Practice](#practice)
@@ -103,13 +103,7 @@
 
 #### Sublime
 
-- [SublimeEthereum](https://github.com/davidhq/SublimeEthereum) - Solidity
-  syntax for SublimeText.
-
 #### Vim
-
-- [solidity.vim](https://github.com/dmdque/solidity.vim) - Vim compiler plugin.
-- [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file.
 
 #### Visual Studio Code
 
