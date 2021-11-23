@@ -75,6 +75,7 @@
 
 - [Unit Testing in Starknet](https://perama-v.github.io/cairo/examples/unit_test/) -
   Using [`pytest`](https://docs.pytest.org/en/6.2.x/) to test StarkNet contracts
+- [Managing StarkNet deployments with Nile ⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
 
 #### Articles
 
