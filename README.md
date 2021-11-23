@@ -73,15 +73,15 @@
 
 #### Tutorials
 
-- [Unit Testing](https://perama-v.github.io/cairo/examples/unit_test/) -
+- [Unit Testing in StarkNet](https://perama-v.github.io/cairo/examples/unit_test/) -
   Using [`pytest`](https://docs.pytest.org/en/6.2.x/) to test contracts
-- [Managing deployments using Nile ⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
+- [Managing StarkNet deployments using Nile ⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
 
 #### Articles
 
 - [Perama's Blog](https://perama-v.github.io/cairo/intro/) - Large set of
   educational StarkNet / Cairo resources
-- [Practical lessons learned](https://hackmd.io/@RoboTeddy/BJZFu56wF) -
+- [Practical StarkNet lessons learned](https://hackmd.io/@RoboTeddy/BJZFu56wF) -
   Helpful tips for new StarkNet/Cairo programmers
 - [Cairo Common Library](https://perama-v.github.io/cairo/cairo-common-library/) -
   Docs for the Cairo Common Library (stdlib equivalent)
