@@ -143,6 +143,11 @@
 #### Practice
 
 #### Jobs
+- [Dapp Developer at Shard labs](https://almanac.io/docs/starknet-dapp-developer-shard-labs-8UMOmydaLJX7jzQAZReYJTcC0o4RtE1m).
+- [Open source developer at Open Zeppelin](https://openzeppelin.com/jobs/opening/?gh_jid=4554917003&gh_src=2742d3093us).
+- [Cairo engineers at Immutable](https://discord.com/channels/793094838509764618/898210860030386178/898330663281905725).
+- [Chainlink integration team](https://discord.com/channels/793094838509764618/898210860030386178/905842249840074783).
+- [Blockchain software engineer at JellyFi](https://mango-cry-b61.notion.site/Blockchain-software-engineer-9634a0236c454e6ab7679a93478f2f8b).
 
 ## Libraries
 
