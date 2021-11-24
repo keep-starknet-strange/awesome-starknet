@@ -163,6 +163,8 @@
   projects written in Cairo by OpenZeppelin
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
 - [argent-x](https://github.com/argentlabs/argent-x) - Browser extension wallet
+- [cairo_kernel](https://github.com/ankitchiplunkar/cairo-jupyter) - Jupyter
+  kernel for Cairo.
 
 #### Utility
 
