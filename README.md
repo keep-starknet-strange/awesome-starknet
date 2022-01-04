@@ -30,7 +30,7 @@
   - [Security](#security)
   - [Examples](#examples)
   - [Educational](#educational)
-  - [Deployed on StarkNet Mainnet](#deployed-on-starknet-mainnet)
+  - [Deployed on StarkNet Mainnet](#built--deployed-on-starknet)
   - [Templates](#templates)
   - [Books](#books)
   - [Practice](#practice)
@@ -96,6 +96,8 @@
   Explanation of building test accounts
 
 #### Security
+
+- [ChainSecurity DAI Bridge Audit](https://chainsecurity.com/wp-content/uploads/2021/12/ChainSecurity_MakerDAO_StarkNet-DAI-Bridge_audit.pdf) - Audit of MakerDAO's DAI bridge by ChainSecurity.
 
 #### Examples
 
