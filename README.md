@@ -159,6 +159,7 @@
   A plugin for integrating Starknet tools into Hardhat projects
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
   OpenZeppelin Contracts written in Cairo
+- [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development. 
 
 ## Tools
 
