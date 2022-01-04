@@ -24,25 +24,25 @@
 ### Contents
 
 - [Resources](#resources)
-  - [Official](#official)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Security](#security)
-  - [Examples](#examples)
-  - [Educational](#educational)
-  - [Deployed on StarkNet Mainnet](#deployed-on-starknet-mainnet)
-  - [Templates](#templates)
-  - [Books](#books)
-  - [Practice](#practice)
-  - [Jobs](#jobs)
+    - [Official](#official)
+    - [Tutorials](#tutorials)
+    - [Articles](#articles)
+    - [Security](#security)
+    - [Examples](#examples)
+      - [Educational](#educational)
+      - [Built / Deployed on StarkNet](#built--deployed-on-starknet)
+    - [Templates](#templates)
+    - [Books](#books)
+    - [Practice](#practice)
+    - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
-  - [General](#general)
-  - [Utility](#utility)
-  - [Audit](#audit)
+    - [General](#general)
+    - [Utility](#utility)
+    - [Audit](#audit)
 - [Editor Plugins](#editor-plugins)
-  - [Vim](#vim)
-  - [Visual Studio Code](#visual-studio-code)
+    - [Vim](#vim)
+    - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
 ## Resources
@@ -159,6 +159,7 @@
   A plugin for integrating Starknet tools into Hardhat projects
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
   OpenZeppelin Contracts written in Cairo
+- [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development. 
 
 ## Tools
 
