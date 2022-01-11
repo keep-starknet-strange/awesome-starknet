@@ -157,6 +157,7 @@
 - [starknet.js](https://github.com/seanjameshan/starknet.js) - Javascript
   library
 - [starknet.py](https://github.com/software-mansion/starknet.py) - Python library
+- [starknet-rs](https://github.com/xJonathanLEI/starknet-rs) - Rust library
 - [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) -
   A plugin for integrating Starknet tools into Hardhat projects
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
