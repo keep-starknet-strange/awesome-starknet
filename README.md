@@ -103,6 +103,7 @@
 
 - [Cairo by Example](https://perama-v.github.io/cairo/by-example/) - An
   introduction to [Cairo](https://www.cairo-lang.org/) with simple examples.
+- [starknet-cairo-101](https://github.com/l-henri/starknet-cairo-101) - Interactive Cairo workshop using [Voyager](https://voyager.online/) with puzzles and tokens as prizes.
 - [Skeleton for StarkNet](https://perama-v.github.io/cairo/examples/building_blocks/skeleton/program_starknet.html)
   - Quick example of a Minimum verifiable program
 - [Skeleton for SHARP](https://perama-v.github.io/cairo/examples/building_blocks/skeleton/program_sharp.html)
