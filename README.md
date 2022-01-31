@@ -142,6 +142,8 @@
   Example usage of the Starknet Hardhat plugin.
 - [starknet-react-example](https://github.com/fracek/starknet-react-example) -
   Connect your ReactApp to StarkNet
+- [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - 
+  Boilerplate for Argent-X/Vue.js.
 
 #### Books
 
@@ -165,6 +167,7 @@
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
   OpenZeppelin Contracts written in Cairo
 - [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development. 
+- [caigo](https://github.com/dontpanicdao/caigo) - Golang Library.
 
 ## Tools
 
