@@ -80,6 +80,8 @@
 
 #### Articles
 
+- [Going all in - starknet](https://koopxyz.notion.site/going-all-in-starkware-f250983d562c454384384a5408bddf9c)
+  Notion site of helpful resources  
 - [Perama's Blog](https://perama-v.github.io/cairo/intro/) - Large set of
   educational StarkNet / Cairo resources
 - [Practical StarkNet lessons learned](https://hackmd.io/@RoboTeddy/BJZFu56wF) -
