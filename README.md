@@ -133,6 +133,7 @@
   Deep Neural Net PoC
 - [argent-contracts-starknet](https://github.com/argentlabs/argent-contracts-starknet) -
   [Argent](https://www.argent.xyz/)'s Account contracts
+- [briq](https://github.com/briqNFT/briq-protocol) - NFT building & composability protocol
 
 #### Templates
 
