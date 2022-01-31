@@ -196,6 +196,8 @@
 
 - [Cairo VS Code](https://www.cairo-lang.org/docs/quickstart.html#visual-studio-code-setup) -
   VS Code syntax support for Cairo (requires manual installation)
+- [Cairo language support](https://marketplace.visualstudio.com/items?itemName=ericglau.cairo-ls) -
+  Code assistance and compile error highlighting in VS Code.
 
 ---
 
