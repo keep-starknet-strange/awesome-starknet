@@ -137,7 +137,7 @@
 - [argent-contracts-starknet](https://github.com/argentlabs/argent-contracts-starknet) -
   [Argent](https://www.argent.xyz/)'s Account contracts
 - [briq](https://github.com/briqNFT/briq-protocol) - NFT building & composability protocol
-- [starknet-AMM](https://github.com/bitnician/Starknet-AMM) - A clone version of Uniswap-v2 
+- [starknet-AMM](https://github.com/bitnician/Starknet-AMM) - clone version of Uniswap-v2 
 
 #### Templates
 
