@@ -178,6 +178,7 @@
 - [argent-x](https://github.com/argentlabs/argent-x) - Browser extension wallet
 - [cairo_kernel](https://github.com/ankitchiplunkar/cairo-jupyter) - Jupyter
   kernel for Cairo.
+- [fossil](https://github.com/OilerNetwork/fossil) - L1 state verification with STARKs.
 - [juno](https://github.com/NethermindEth/juno) - Client (GoLang).
 - [nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet
   projects written in Cairo by OpenZeppelin
