@@ -25,6 +25,7 @@
 
 - [Resources](#resources)
   - [Official](#official)
+  - [Ecosystem](#ecosystem)
   - [Tutorials](#tutorials)
   - [Articles](#articles)
   - [Security](#security)
@@ -71,6 +72,11 @@
 - [StarkNet Voting Workshop](https://starkware.notion.site/starkware/StarkNet-Voting-Workshop-b61ef5f4a62d45af86892cba3158f7e6) -
   End to end tutorial on building a voting app
 - [YouTube channel](https://www.youtube.com/channel/UCnDWguR8mE2oDBsjhQkgbvg/playlists) - Official StarkWare YouTube channel.
+
+#### Ecosystem
+
+- [StarkNet Ecosystem](https://starknet-ecosystem.com) -
+  A [community-driven](https://github.com/419Labs/starknet-ecosystem.com) initiative to showcase projects and teams building on StarkNet.
 
 #### Tutorials
 
