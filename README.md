@@ -191,6 +191,7 @@
 - [juno](https://github.com/NethermindEth/juno) - Client (GoLang).
 - [nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet
   projects written in Cairo by OpenZeppelin
+- [protostar](https://docs.swmansion.com/protostar/) - CLI tool for developing and testing contracts in Cairo.
 - [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - Local
   testnet
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
