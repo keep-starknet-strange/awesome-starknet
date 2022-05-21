@@ -79,7 +79,7 @@
   A [community-driven](https://github.com/419Labs/starknet-ecosystem.com) initiative to showcase projects and teams building on StarkNet.
 
 #### Tutorials
-- [Interactive Tutorial for Learning StarkNet](https://github.com/onlydustxyz/starklings) - An interactive tutorial to get you up and running with Starknet.
+- [Interactive Tutorials for StarkNet Development](https://github.com/onlydustxyz/starklings) - Interactive tutorials teaching all the different concepts in Cairo from beginner to advanced.
 - [Full-Stack StarkNet](https://github.com/sambarnes/fullstack-starknet) - Tutorials introducing a little bit of everything in a DApp.
 - [Unit Testing in StarkNet](https://perama-v.github.io/cairo/examples/unit_test/) -
   Using [`pytest`](https://docs.pytest.org/en/6.2.x/) to test contracts
