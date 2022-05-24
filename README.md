@@ -185,7 +185,7 @@
 
 #### General
 - [argent-x](https://github.com/argentlabs/argent-x) - Browser extension wallet
-- [Braavos Wallet] - Self-custodial wallet on top of StarkNet
+- [Braavos Wallet](https://braavos.app) - Self-custodial wallet on top of StarkNet
 - [cairo_kernel](https://github.com/ankitchiplunkar/cairo-jupyter) - Jupyter
   kernel for Cairo.
 - [fossil](https://github.com/OilerNetwork/fossil) - L1 state verification with STARKs.
