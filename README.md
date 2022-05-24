@@ -169,7 +169,7 @@
 
 ## Libraries
 
-- [get-starknet](https://github.com/starknet-community-libs/get-starknet) - StarkNet wallet <-> dApp bridge.
+- [get-starknet](https://github.com/starknet-community-libs/get-starknet) - wallet <-> dApp bridge.
 - [starknet.js](https://github.com/seanjameshan/starknet.js) - Javascript
   library
 - [starknet.py](https://github.com/software-mansion/starknet.py) - Python library
