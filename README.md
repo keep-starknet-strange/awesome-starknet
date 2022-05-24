@@ -169,6 +169,7 @@
 
 ## Libraries
 
+- [get-starknet](https://github.com/starknet-community-libs/get-starknet) - StarkNet wallet <-> dApp bridge
 - [starknet.js](https://github.com/seanjameshan/starknet.js) - Javascript
   library
 - [starknet.py](https://github.com/software-mansion/starknet.py) - Python library
@@ -184,6 +185,7 @@
 ## Tools
 
 #### General
+- [Braavos](https://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma) - Browser extension wallet
 - [argent-x](https://github.com/argentlabs/argent-x) - Browser extension wallet
 - [cairo_kernel](https://github.com/ankitchiplunkar/cairo-jupyter) - Jupyter
   kernel for Cairo.
