@@ -148,6 +148,7 @@
 
 #### Templates
 
+- [Contracts Wizard for Cairo](https://wizard.openzeppelin.com/cairo) - Interactive smart contract generator based on OpenZeppelin Contracts for Cairo. 
 - [starknet-hardhat-example](https://github.com/Shard-Labs/starknet-hardhat-example) -
   Example usage of the Starknet Hardhat plugin.
 - [starknet-react-example](https://github.com/fracek/starknet-react-example) -
