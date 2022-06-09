@@ -149,12 +149,12 @@
 #### Templates
 
 - [Contracts Wizard for Cairo](https://wizard.openzeppelin.com/cairo) - Interactive smart contract generator based on OpenZeppelin Contracts for Cairo.
-- [prototype](https://github.com/sambarnes/prototype) - Batteries-included template for Cairo projects using the protostar toolchain
+- [prototype](https://github.com/sambarnes/prototype) - Batteries-included template for Cairo projects using the protostar toolchain.
 - [starknet-hardhat-example](https://github.com/Shard-Labs/starknet-hardhat-example) -
   Example usage of the Starknet Hardhat plugin.
 - [starknet-react-example](https://github.com/fracek/starknet-react-example) -
-  Connect your ReactApp to StarkNet
-- [starknet-scaffold](https://github.com/tarrencev/starknet-scaffold) - Cario development scaffold using nile and pytest
+  Connect your ReactApp to StarkNet.
+- [starknet-scaffold](https://github.com/tarrencev/starknet-scaffold) - Cario development scaffold using nile and pytest.
 - [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - 
   Boilerplate for Argent-X/Vue.js.
 
