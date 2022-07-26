@@ -85,11 +85,11 @@
   Using [`pytest`](https://docs.pytest.org/en/6.2.x/) to test contracts
 - [Managing StarkNet deployments using Nile ⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
 - [starknet-cairo-101](https://github.com/starknet-edu/starknet-cairo-101) - Interactive Cairo workshop using [Voyager](https://voyager.online/) with puzzles and tokens as prizes.
-- [starknet-erc20](https://github.com/starknet-edu/starknet-erc20) - Learn about the ERC20 standard and how to deploy your own token on StarkNet, and collect points
-- [starknet-erc721](https://github.com/starknet-edu/starknet-erc721) - Learn about the ERC721 standard and how to deploy your own NFT on StarkNet
+- [starknet-erc20](https://github.com/starknet-edu/starknet-erc20) - Learn about the ERC20 standard and how to deploy your own token, and collect points
+- [starknet-erc721](https://github.com/starknet-edu/starknet-erc721) - Learn about the ERC721 standard and how to deploy your own NFT
 - [starknet-messaging-bridge](https://github.com/starknet-edu/starknet-messaging-bridge) - Learn how to build your own bridge between Ethereum and StarkNet
 - [starknet-accounts](https://github.com/starknet-edu/starknet-accounts) - Discover the wonders of account abstraction and create your own smart wallet
-- [Debugging](https://github.com/starknet-edu/starknet-debug) - Use StarkNet's tooling to debug contracts in an efficient way
+- [Debugging](https://github.com/starknet-edu/starknet-debug) - Debug contracts in an efficient way
 
 #### Articles
 
