@@ -207,6 +207,11 @@
 
 #### Audit
 
+- [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter
+- [tayt](https://github.com/crytic/tayt) - Fuzzer
+- [medjai](https://github.com/Veridise/Medjai) - Symbolic execution tool
+- [thoth](https://github.com/FuzzingLabs/thoth) - Bytecode analyzer and disassembler
+
 ## Editor Plugins
 
 #### Vim
