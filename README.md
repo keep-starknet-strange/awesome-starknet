@@ -166,6 +166,7 @@
 - [Cairo engineers at Immutable](https://discord.com/channels/793094838509764618/898210860030386178/898330663281905725).
 - [Chainlink integration team](https://discord.com/channels/793094838509764618/898210860030386178/905842249840074783).
 - [Blockchain software engineer at JellyFi](https://mango-cry-b61.notion.site/Blockchain-software-engineer-9634a0236c454e6ab7679a93478f2f8b).
+- [Cairo Auditor at Lindy Labs](https://lindy-labs.homerun.co/general-application/en/apply?token=ed0d267dafa08b33743c8676cc624279).
 
 ## Libraries
 
