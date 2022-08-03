@@ -144,6 +144,7 @@
 - [argent-contracts-starknet](https://github.com/argentlabs/argent-contracts-starknet) -
   [Argent](https://www.argent.xyz/)'s Account contracts
 - [briq](https://github.com/briqNFT/briq-protocol) - NFT building & composability protocol
+- [Empiric Network](https://github.com/42labs/Empiric) - Oracle providing decentralized, transparent and composable data.
 
 #### Templates
 
