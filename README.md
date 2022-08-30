@@ -201,6 +201,8 @@
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
 - [voyager](https://voyager.online) - Block explorer.
 - [starktx](https://starktx.info/) - StarkTx Transaction Decoder.
+- [ape-cairo](https://github.com/ApeWorX/ape-cairo) - Compiler plugin for ape for the Cairo-lang.
+- [ape-starknet](https://github.com/ApeWorX/ape-starknet) - Ape plugin for the StarkNet networks.
 
 #### Utility
 
