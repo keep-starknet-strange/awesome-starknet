@@ -84,6 +84,12 @@
 - [Unit Testing in StarkNet](https://perama-v.github.io/cairo/examples/unit_test/) -
   Using [`pytest`](https://docs.pytest.org/en/6.2.x/) to test contracts
 - [Managing StarkNet deployments using Nile ⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
+- [starknet-cairo-101](https://github.com/starknet-edu/starknet-cairo-101) - Interactive Cairo workshop using [Voyager](https://voyager.online/) with puzzles and tokens as prizes.
+- [starknet-erc20](https://github.com/starknet-edu/starknet-erc20) - Learn about the ERC20 standard and how to deploy your own token, and collect points
+- [starknet-erc721](https://github.com/starknet-edu/starknet-erc721) - Learn about the ERC721 standard and how to deploy your own NFT
+- [starknet-messaging-bridge](https://github.com/starknet-edu/starknet-messaging-bridge) - Learn how to build your own bridge between Ethereum and StarkNet
+- [starknet-accounts](https://github.com/starknet-edu/starknet-accounts) - Discover the wonders of account abstraction and create your own smart wallet
+- [Debugging](https://github.com/starknet-edu/starknet-debug) - Debug contracts in an efficient way
 
 #### Articles
 
@@ -112,7 +118,6 @@
 
 - [Cairo by Example](https://perama-v.github.io/cairo/by-example/) - An
   introduction to [Cairo](https://www.cairo-lang.org/) with simple examples.
-- [starknet-cairo-101](https://github.com/l-henri/starknet-cairo-101) - Interactive Cairo workshop using [Voyager](https://voyager.online/) with puzzles and tokens as prizes.
 - [Skeleton for StarkNet](https://perama-v.github.io/cairo/examples/building_blocks/skeleton/program_starknet.html)
   - Quick example of a Minimum verifiable program
 - [Skeleton for SHARP](https://perama-v.github.io/cairo/examples/building_blocks/skeleton/program_sharp.html)
@@ -123,6 +128,7 @@
 
 - [StarkWare | Scaling Ethereum, ZK-rollups, Layer 1's, and more!](https://youtu.be/aq7EV-4K7Vk) -
   Interview with Louis Guthmann, Ecosystem Lead @ StarkWare
+- [StarkNet Basecamp](https://github.com/starknet-edu/basecamp) - Learn how Starks, Cairo and StarkNet work, from the ground up.
 
 ##### Built / Deployed on StarkNet
 
