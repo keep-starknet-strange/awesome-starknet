@@ -84,6 +84,12 @@
 - [Unit Testing in StarkNet](https://perama-v.github.io/cairo/examples/unit_test/) -
   Using [`pytest`](https://docs.pytest.org/en/6.2.x/) to test contracts.
 - [Managing StarkNet deployments using Nile ⛵️✨](https://medium.com/@martriay/manage-your-starknet-deployments-with-nile-%EF%B8%8F-e849d40546dd)
+- [starknet-cairo-101](https://github.com/starknet-edu/starknet-cairo-101) - Interactive Cairo workshop using [Voyager](https://voyager.online/) with puzzles and tokens as prizes.
+- [starknet-erc20](https://github.com/starknet-edu/starknet-erc20) - Learn about the ERC20 standard and how to deploy your own token, and collect points
+- [starknet-erc721](https://github.com/starknet-edu/starknet-erc721) - Learn about the ERC721 standard and how to deploy your own NFT
+- [starknet-messaging-bridge](https://github.com/starknet-edu/starknet-messaging-bridge) - Learn how to build your own bridge between Ethereum and StarkNet
+- [starknet-accounts](https://github.com/starknet-edu/starknet-accounts) - Discover the wonders of account abstraction and create your own smart wallet
+- [Debugging](https://github.com/starknet-edu/starknet-debug) - Debug contracts in an efficient way
 
 #### Articles
 
@@ -112,7 +118,6 @@
 
 - [Cairo by Example](https://perama-v.github.io/cairo/by-example/) - An
   introduction to [Cairo](https://www.cairo-lang.org/) with simple examples.
-- [starknet-cairo-101](https://github.com/l-henri/starknet-cairo-101) - Interactive Cairo workshop using [Voyager](https://voyager.online/) with puzzles and tokens as prizes.
 - [Skeleton for StarkNet](https://perama-v.github.io/cairo/examples/building_blocks/skeleton/program_starknet.html)
   - Quick example of a Minimum verifiable program.
 - [Skeleton for SHARP](https://perama-v.github.io/cairo/examples/building_blocks/skeleton/program_sharp.html)
@@ -122,7 +127,8 @@
 ##### Educational
 
 - [StarkWare | Scaling Ethereum, ZK-rollups, Layer 1's, and more!](https://youtu.be/aq7EV-4K7Vk) -
-  Interview with Louis Guthmann, Ecosystem Lead @ StarkWare.
+  Interview with Louis Guthmann, Ecosystem Lead @ StarkWare
+- [StarkNet Basecamp](https://github.com/starknet-edu/basecamp) - Learn how Starks, Cairo and StarkNet work, from the ground up.
 
 ##### Built / Deployed on StarkNet
 
@@ -142,8 +148,9 @@
 - [tiny-dnn-on-starknet](https://github.com/guiltygyoza/tiny-dnn-on-starknet) -
   Deep Neural Net PoC.
 - [argent-contracts-starknet](https://github.com/argentlabs/argent-contracts-starknet) -
-  [Argent](https://www.argent.xyz/)'s Account contracts.
-- [briq](https://github.com/briqNFT/briq-protocol) - NFT building & composability protocol.
+[Argent](https://www.argent.xyz/)'s Account contracts.
+- [briq](https://github.com/briqNFT/briq-protocol) - NFT building & composability protocol
+- [Empiric Network](https://github.com/42labs/Empiric) - Oracle providing decentralized, transparent and composable data.
 
 #### Templates
 
@@ -175,10 +182,9 @@
   library.
 - [starknet.py](https://github.com/software-mansion/starknet.py) - Python library.
 - [starknet-rs](https://github.com/xJonathanLEI/starknet-rs) - Rust library.
-- [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) -
-  A plugin for integrating Starknet tools into Hardhat projects.
-- [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
-  OpenZeppelin Contracts written in Cairo.
+- [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) -  A plugin for integrating Starknet tools into Hardhat projects.
+- [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - Library for JVM languages (java, kotlin and others).
+- [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) - OpenZeppelin Contracts written in Cairo.
 - [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development. 
 - [caigo](https://github.com/dontpanicdao/caigo) - Golang Library.
 - [starknet-react](https://github.com/auclantis/starknet-react) - React hooks library.
@@ -199,6 +205,8 @@
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI.
 - [voyager](https://voyager.online) - Block explorer.
 - [starktx](https://starktx.info/) - StarkTx Transaction Decoder.
+- [ape-cairo](https://github.com/ApeWorX/ape-cairo) - Compiler plugin for ape for the Cairo-lang.
+- [ape-starknet](https://github.com/ApeWorX/ape-starknet) - Ape plugin for the StarkNet networks.
 
 #### Utility
 
