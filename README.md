@@ -189,6 +189,7 @@
 - [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development. 
 - [caigo](https://github.com/dontpanicdao/caigo) - Golang Library.
 - [starknet-react](https://github.com/auclantis/starknet-react) - React hooks library.
+- [checkpoint](https://checkpoint.fyi) - TypeScript library to index on-chain data.
 
 ## Tools
 
