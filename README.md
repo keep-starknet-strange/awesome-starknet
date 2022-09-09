@@ -222,6 +222,7 @@
 
 - [cairo.vim](https://github.com/miguelmota/cairo.vim) - (Outdated) vim syntax
   plugin for Cairo
+- [starknet-vim](https://github.com/0xHyoga/starknet-vim) - Vim syntax for Cairo v0.10
 
 #### Visual Studio Code
 
