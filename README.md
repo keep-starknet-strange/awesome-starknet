@@ -109,10 +109,12 @@
   Explanation of StarkNet's account abstraction
 - [Test Accounts](https://perama-v.github.io/cairo/examples/test_accounts/) -
   Explanation of building test accounts
+- [Amarna Static Analysis](https://blog.trailofbits.com/2022/04/20/amarna-static-analysis-for-cairo-programs/) - Amarna: Static analysis for Cairo programs
 
 #### Security
 
 - [ChainSecurity DAI Bridge Audit](https://chainsecurity.com/wp-content/uploads/2021/12/ChainSecurity_MakerDAO_StarkNet-DAI-Bridge_audit.pdf) - Audit of MakerDAO's DAI bridge by ChainSecurity.
+- [not-so-smart-cairo](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cairo) - Examples of common Cairo smart contract vulnerabilities by Trail of Bits.
 
 #### Examples
 
@@ -207,6 +209,8 @@
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
 - [voyager](https://voyager.online) - Block explorer.
 - [starktx](https://starktx.info/) - StarkTx Transaction Decoder.
+- [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language. 
+- [tayt](https://github.com/crytic/tayt) - StarkNet smart contract fuzzer.
 - [ape-cairo](https://github.com/ApeWorX/ape-cairo) - Compiler plugin for ape for the Cairo-lang.
 - [ape-starknet](https://github.com/ApeWorX/ape-starknet) - Ape plugin for the StarkNet networks.
 
