@@ -195,8 +195,11 @@
 ## Tools
 
 #### General
-- [Braavos](https://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma) - Browser extension wallet.
+- [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language. 
+- [ape-cairo](https://github.com/ApeWorX/ape-cairo) - Compiler plugin for ape for the Cairo-lang.
+- [ape-starknet](https://github.com/ApeWorX/ape-starknet) - Ape plugin for the StarkNet networks.
 - [argent-x](https://github.com/argentlabs/argent-x) - Browser extension wallet
+- [Braavos](https://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma) - Browser extension wallet.
 - [cairo_kernel](https://github.com/ankitchiplunkar/cairo-jupyter) - Jupyter
   kernel for Cairo.
 - [fossil](https://github.com/OilerNetwork/fossil) - L1 state verification with STARKs.
@@ -207,12 +210,9 @@
 - [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - Local
   testnet
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
-- [voyager](https://voyager.online) - Block explorer.
 - [starktx](https://starktx.info/) - StarkTx Transaction Decoder.
-- [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language. 
+- [voyager](https://voyager.online) - Block explorer.
 - [tayt](https://github.com/crytic/tayt) - StarkNet smart contract fuzzer.
-- [ape-cairo](https://github.com/ApeWorX/ape-cairo) - Compiler plugin for ape for the Cairo-lang.
-- [ape-starknet](https://github.com/ApeWorX/ape-starknet) - Ape plugin for the StarkNet networks.
 
 #### Utility
 
