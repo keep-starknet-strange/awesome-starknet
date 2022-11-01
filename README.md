@@ -94,7 +94,7 @@
 #### Articles
 
 - [Going all in - starknet](https://koopxyz.notion.site/going-all-in-starkware-f250983d562c454384384a5408bddf9c)
-  Notion site of helpful resources  
+  Notion site of helpful resources
 - [Perama's Blog](https://perama-v.github.io/cairo/intro/) - Large set of
   educational StarkNet / Cairo resources
 - [Practical StarkNet lessons learned](https://hackmd.io/@RoboTeddy/BJZFu56wF) -
@@ -110,6 +110,7 @@
 - [Test Accounts](https://perama-v.github.io/cairo/examples/test_accounts/) -
   Explanation of building test accounts
 - [Amarna Static Analysis](https://blog.trailofbits.com/2022/04/20/amarna-static-analysis-for-cairo-programs/) - Amarna: Static analysis for Cairo programs
+- [Getting Started with StarkNet & Writing Smart Contracts in Cairo](https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo) - Developers guide to StarkNet, STARKS, Cairo & Building on StarkNet.
 
 #### Security
 
@@ -156,12 +157,12 @@
 
 #### Templates
 
-- [Contracts Wizard for Cairo](https://wizard.openzeppelin.com/cairo) - Interactive smart contract generator based on OpenZeppelin Contracts for Cairo. 
+- [Contracts Wizard for Cairo](https://wizard.openzeppelin.com/cairo) - Interactive smart contract generator based on OpenZeppelin Contracts for Cairo.
 - [starknet-hardhat-example](https://github.com/Shard-Labs/starknet-hardhat-example) -
   Example usage of the Starknet Hardhat plugin.
 - [starknet-react-example](https://github.com/fracek/starknet-react-example) -
   Connect your ReactApp to StarkNet
-- [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - 
+- [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) -
   Boilerplate for Argent-X/Vue.js.
 - [starknet-scaffold](https://github.com/tarrencev/starknet-scaffold) - Cario development scaffold using nile and pytest
 
@@ -188,7 +189,7 @@
 - [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - Library for JVM languages (java, kotlin and others).
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
   OpenZeppelin Contracts written in Cairo
-- [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development. 
+- [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development.
 - [caigo](https://github.com/dontpanicdao/caigo) - Golang Library.
 - [starknet-react](https://github.com/auclantis/starknet-react) - React hooks library.
 
@@ -209,7 +210,7 @@
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
 - [voyager](https://voyager.online) - Block explorer.
 - [starktx](https://starktx.info/) - StarkTx Transaction Decoder.
-- [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language. 
+- [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language.
 - [tayt](https://github.com/crytic/tayt) - StarkNet smart contract fuzzer.
 - [ape-cairo](https://github.com/ApeWorX/ape-cairo) - Compiler plugin for ape for the Cairo-lang.
 - [ape-starknet](https://github.com/ApeWorX/ape-starknet) - Ape plugin for the StarkNet networks.
