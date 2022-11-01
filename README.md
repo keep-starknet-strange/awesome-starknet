@@ -110,7 +110,7 @@
 - [Test Accounts](https://perama-v.github.io/cairo/examples/test_accounts/) -
   Explanation of building test accounts
 - [Amarna Static Analysis](https://blog.trailofbits.com/2022/04/20/amarna-static-analysis-for-cairo-programs/) - Amarna: Static analysis for Cairo programs
-- [Getting Started with StarkNet & Writing Smart Contracts in Cairo](https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo) - Developers guide to StarkNet, STARKS, Cairo & Building on StarkNet.
+- [Getting Started with StarkNet & Writing Smart Contracts in Cairo](https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo) - Developers Guide to StarkNet, STARKS and Cairo.
 
 #### Security
 
