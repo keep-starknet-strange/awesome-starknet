@@ -209,8 +209,6 @@
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
 - [voyager](https://voyager.online) - Block explorer.
 - [starktx](https://starktx.info/) - StarkTx Transaction Decoder.
-- [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language. 
-- [tayt](https://github.com/crytic/tayt) - StarkNet smart contract fuzzer.
 - [ape-cairo](https://github.com/ApeWorX/ape-cairo) - Compiler plugin for ape for the Cairo-lang.
 - [ape-starknet](https://github.com/ApeWorX/ape-starknet) - Ape plugin for the StarkNet networks.
 
@@ -220,7 +218,10 @@
 
 #### Audit
 
-- [thoth](https://github.com/FuzzingLabs/thoth) - Cairo/StarkNet bytecode disassembler
+- [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language. 
+- [tayt](https://github.com/crytic/tayt) - StarkNet smart contract fuzzer.
+- [thoth](https://github.com/FuzzingLabs/thoth) - Cairo/Starknet/Sierra analyzer, disassembler & decompiler
+- [cairo-fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer) - Cairo/Starknet smart contract fuzzer
 
 ## Editor Plugins
 
