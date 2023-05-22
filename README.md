@@ -149,6 +149,8 @@
   playing Tic-Tac-Toe
 - [tiny-dnn-on-starknet](https://github.com/guiltygyoza/tiny-dnn-on-starknet) -
   Deep Neural Net PoC
+- [braavos-account-cairo](https://github.com/myBraavos/braavos-account-cairo) -
+  [Braavos](https://braavos.app/)'s Account contracts
 - [argent-contracts-starknet](https://github.com/argentlabs/argent-contracts-starknet) -
   [Argent](https://www.argent.xyz/)'s Account contracts
 - [briq](https://github.com/briqNFT/briq-protocol) - NFT building & composability protocol
@@ -191,11 +193,13 @@
 - [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development. 
 - [caigo](https://github.com/dontpanicdao/caigo) - Golang Library.
 - [starknet-react](https://github.com/auclantis/starknet-react) - React hooks library.
+- [efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1) - [Braavos](https://braavos.app/)'s secp256r1 signature validation writtewn in Cairo
 
 ## Tools
 
 #### General
 - [Braavos](https://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma) - Browser extension wallet.
+- [Braavos](https://braavos.app/download-braavos-wallet/) - Mobile wallet.
 - [argent-x](https://github.com/argentlabs/argent-x) - Browser extension wallet
 - [cairo_kernel](https://github.com/ankitchiplunkar/cairo-jupyter) - Jupyter
   kernel for Cairo.
