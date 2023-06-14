@@ -189,7 +189,7 @@
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
   OpenZeppelin Contracts written in Cairo
 - [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development. 
-- [caigo](https://github.com/dontpanicdao/caigo) - Golang Library.
+- [caigo](https://github.com/NethermindEth/caigo) - Golang Library.
 - [starknet-react](https://github.com/auclantis/starknet-react) - React hooks library.
 
 ## Tools
