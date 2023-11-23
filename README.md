@@ -177,21 +177,22 @@
 - [Chainlink integration team](https://discord.com/channels/793094838509764618/898210860030386178/905842249840074783).
 - [Blockchain software engineer at JellyFi](https://mango-cry-b61.notion.site/Blockchain-software-engineer-9634a0236c454e6ab7679a93478f2f8b).
 
-## Libraries
-
-- [get-starknet](https://github.com/starknet-community-libs/get-starknet) - wallet <-> dApp bridge.
-- [starknet.js](https://github.com/seanjameshan/starknet.js) - Javascript
-  library
+## Starknet client libraries
+- [starknet.go](https://github.com/NethermindEth/starknet.go) - Golang library
+- [starknet.js](https://github.com/seanjameshan/starknet.js) - Javascript library
+- [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - Library for JVM languages (java, kotlin and others).
 - [starknet.py](https://github.com/software-mansion/starknet.py) - Python library
 - [starknet-rs](https://github.com/xJonathanLEI/starknet-rs) - Rust library
+- [starknet-react](https://github.com/auclantis/starknet-react) - React hooks library
+
+## Libraries
+
+- [get-starknet](https://github.com/starknet-community-libs/get-starknet) - wallet <-> dApp bridge
 - [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) -
   A plugin for integrating Starknet tools into Hardhat projects
-- [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - Library for JVM languages (java, kotlin and others).
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) -
   OpenZeppelin Contracts written in Cairo
 - [cairomate](https://github.com/a5f9t4/cairomate) - Structured, dependable legos for Starknet development. 
-- [caigo](https://github.com/dontpanicdao/caigo) - Golang Library.
-- [starknet-react](https://github.com/auclantis/starknet-react) - React hooks library.
 
 ## Tools
 
