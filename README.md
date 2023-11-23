@@ -117,8 +117,8 @@
 - [not-so-smart-cairo](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cairo) - Examples of common Cairo smart contract vulnerabilities by Trail of Bits.
 
 #### Cryptography
-- [ethSTARK Documentation](https://eprint.iacr.org/2021/58) - Paper explaining 
-  computational integrity of STARKs. 
+- [ethSTARK Documentation](https://eprint.iacr.org/2021/58) - Computational 
+  integrity of STARKs explanation.
 
 #### Examples
 
