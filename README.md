@@ -254,6 +254,8 @@
 - [Starknet React](https://github.com/auclantis/starknet-react) - React hooks library.
 - [get-starknet](https://github.com/starknet-community-libs/get-starknet) - Wallet <-> dApp bridge.
 - [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - Vue.js boilerplate.
+- [starknet-url](https://github.com/myBraavos/starknet-url) - Build & parse Starknet URLs.
+- [starknet-deeplink](https://github.com/myBraavos/starknet-deeplink) - Starknet deeplink generator.
 
 #### Other libraries
 
