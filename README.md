@@ -198,6 +198,7 @@
 - [Starkli](book.starkli.rs) - The recommended CLI.
 - [Scarb](docs.swmansion.com/scarb) - The recommended build toolchain and package manager.
 - [Vscode Cairo extension](https://marketplace.visualstudio.com/items?itemName=starkware.cairo1) - Official Cairo extension for VSCode with diagnostics, go-to-definition, completion and more.
+- [Vim plugin for Scarb projects](https://github.com/swan-of-bodom/scarb-vim)
 - [Starknet Foundry](https://foundry-rs.github.io/starknet-foundry/) - Toolchain for smart contracts development, testing and deployment.
   - [Starknet Foundry Forge Template](https://github.com/foundry-rs/starknet_forge_template)
 - [Starknet Remix](https://remix.ethereum.org/?#activate=Starknet) - The official Starknet plugin for Remix, a browser-based IDE without the need for any installation.
@@ -221,7 +222,7 @@
 
 - [cairo-vm](https://github.com/lambdaclass/cairo-vm) - Rust implementation of the Cairo VM.
 - [cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - Golang implementation of the Cairo VM.
-  - [cairo-vm_in_go](https://github.com/lambdaclass/cairo-vm_in_go) - Another Golang implementation.
+- [cairo-vm_in_go](https://github.com/lambdaclass/cairo-vm_in_go) - Another Golang implementation.
 - [cairo-zig](https://github.com/keep-starknet-strange/cairo-zig) - Zig implementation of the Cairo VM.
 
 #### Node implementations
