@@ -195,8 +195,8 @@
 
 - [Starknet developer tools](https://docs.starknet.io/documentation/tools/devtools/) - Official developer tools documentation.
 - [Setting up your environment](https://docs.starknet.io/documentation/quick_start/environment_setup/) - Environment setup guide.
-- [Starkli](book.starkli.rs) - The recommended CLI.
-- [Scarb](docs.swmansion.com/scarb) - The recommended build toolchain and package manager.
+- [Starkli](https://book.starkli.rs) - The recommended CLI.
+- [Scarb](https://docs.swmansion.com/scarb) - The recommended build toolchain and package manager.
 - [Vscode Cairo extension](https://marketplace.visualstudio.com/items?itemName=starkware.cairo1) - Official Cairo extension for VSCode with diagnostics, go-to-definition, completion and more.
 - [Vim plugin for Scarb projects](https://github.com/swan-of-bodom/scarb-vim)
 - [Starknet Foundry](https://foundry-rs.github.io/starknet-foundry/) - Toolchain for smart contracts development, testing and deployment.
