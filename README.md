@@ -248,6 +248,7 @@
 - [Herodotus cairo-lib](https://github.com/HerodotusDev/cairo-lib) - Set of Data Structures, Encoding, Hashers and Utilities for Cairo.
 - [xoroshiro-cairo](https://github.com/milancermak/xoroshiro-cairo) - Xoroshiro PRNG implementation in Cairo.
 - [graffiti](https://github.com/milancermak/graffiti) - Library for building XML based documents (SVG, HTML, RSS).
+- [Origami](https://github.com/dojoengine/origami) - Dojo's gaming library.
 
 #### Dapps libraries
 
