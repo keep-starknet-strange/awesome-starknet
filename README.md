@@ -172,7 +172,7 @@
 - [Snapshot proposals](https://snapshot.org/#/starknet.eth) - Snapshot proposals.
 - [Community discussions](https://community.starknet.io/c/governance/15)
 - [Delegate discovery](https://delegate.starknet.io/) - Finding delegates.
-- [Starknet Foundation](https://www.starknet.io/en/posts/governance/welcome-to-the-world-starknet-foundationn) - Introduction to the Starknet Foundation.
+- [Starknet Foundation](https://www.starknet.io/en/posts/governance/welcome-to-the-world-starknet-foundation) - Introduction to the Starknet Foundation.
 - [Starknet Foundation committees](https://www.starknet.io/en/posts/foundation/the-starknet-foundation-meet-the-committees) - Introduction to the Starknet Foundation committees.
 
 #### Events
