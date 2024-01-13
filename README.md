@@ -253,6 +253,7 @@
 #### Dapps libraries
 
 - [Starknet React](https://github.com/auclantis/starknet-react) - React hooks library.
+- [Starknetkit](https://www.starknetkit.com/docs/getting-started) - The wallet SDK for developers on Starknet.
 - [get-starknet](https://github.com/starknet-community-libs/get-starknet) - Wallet <-> dApp bridge.
 - [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - Vue.js boilerplate.
 - [starknet-url](https://github.com/myBraavos/starknet-url) - Build & parse Starknet URLs.
