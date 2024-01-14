@@ -188,6 +188,7 @@
 - [OnlyDust](https://www.onlydust.xyz/) - Contribute to innovative projects.
 - [Ecosystem Jobs board](https://www.starknet.io/en/jobs) - Find a job with the best teams.
 - [Nethermind Jobs](https://www.nethermind.io/open-roles) - Join Nethermind's remote-first, close-knit crew of builders and tech professionals.
+- [Equilibrium Labs](https://equilibrium.co/join-us) - Explore the R&D company behind [Pathfinder](#node-implementations).
 
 ## Additional developer resources
 
