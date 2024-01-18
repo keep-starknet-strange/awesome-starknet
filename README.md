@@ -157,6 +157,7 @@
 - [Starknet Ecosystem](https://starknet-ecosystem.com) -
   The [community-driven](https://github.com/419Labs/starknet-ecosystem.com) initiative to showcase projects and teams building.
 - [Dappland](https://www.dappland.com/) - Discover dapps.
+- [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/blockchains/starknet) - Unofficial Ecosystem page for Ethereum and some of its Layer 2s like Starknet.
 
 #### Community
 
