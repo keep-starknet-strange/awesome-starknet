@@ -208,7 +208,7 @@
 - [Starknet Hardhat plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - The Starknet Hardhat plugin.
   - [starknet-hardhat-example](https://github.com/0xSpaceShard/starknet-hardhat-example)
 - [docker-cairo](https://github.com/xJonathanLEI/docker-cairo) - Multi-arch Docker images with Cairo binaries.
-- [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - A command-line tool designed to help developers quickly create Starknet Dapp projects. It offers multiple project templates.
+- [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - Command-line tool designed to help developers quickly create Starknet Dapp projects. It offers multiple project templates.
 
 #### Starknet SDKs
 
