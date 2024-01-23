@@ -27,44 +27,44 @@
 ### Contents
 
 - [Resources](#resources)
-    - [Official](#official)
-    - [Tutorials and Examples](#tutorials-and-examples)
-    - [Articles and Blogs](#articles-and-blogs)
-    - [Papers](#papers)
-    - [Cryptography and maths](#cryptography-and-maths)
-    - [Audits](#audits)
-    - [Wallet](#wallet)
-    - [Block explorers](#block-explorers)
-    - [Bridges and on-ramps](#bridges-and-on-ramps)
+  - [Official](#official)
+  - [Tutorials and Examples](#tutorials-and-examples)
+  - [Articles and Blogs](#articles-and-blogs)
+  - [Papers](#papers)
+  - [Cryptography and maths](#cryptography-and-maths)
+  - [Audits](#audits)
+  - [Wallet](#wallet)
+  - [Block explorers](#block-explorers)
+  - [Bridges and on-ramps](#bridges-and-on-ramps)
 - [Ecosystem](#ecosystem)
-    - [Dapps](#dapps)
-    - [Community](#community)
-    - [Governance](#governance)
-    - [Events](#events)
-    - [Open-source and jobs](#open-source-and-jobs)
+  - [Dapps](#dapps)
+  - [Community](#community)
+  - [Governance](#governance)
+  - [Events](#events)
+  - [Open-source and jobs](#open-source-and-jobs)
 - [Additional developer resources](#additional-developer-resources)
-    - [Developer Tools](#developer-tools)
-    - [Starknet SDKs](#starknet-sdks)
-    - [Cairo VMs](#cairo-vms)
-    - [Node implementations](#node-implementations)
-    - [Provers](#provers)
-    - [Cairo libraries](#cairo-libraries)
-    - [Dapps libraries](#dapps-libraries)
-    - [Other libraries](#other-libraries)
-    - [Sequencers](#sequencers)
-    - [ZkEvm](#zkevm)
-    - [Gaming](#gaming)
-    - [AI](#ai)
-    - [Storage Proofs](#storage-proofs)
-    - [Security](#security)
-    - [Oracles](#oracles)
-    - [Indexers](#indexers)
-    - [Misc](#misc)
+  - [Developer Tools](#developer-tools)
+  - [Starknet SDKs](#starknet-sdks)
+  - [Cairo VMs](#cairo-vms)
+  - [Node implementations](#node-implementations)
+  - [Provers](#provers)
+  - [Cairo libraries](#cairo-libraries)
+  - [Dapps libraries](#dapps-libraries)
+  - [Other libraries](#other-libraries)
+  - [Sequencers](#sequencers)
+  - [ZkEvm](#zkevm)
+  - [Gaming](#gaming)
+  - [AI](#ai)
+  - [Storage Proofs](#storage-proofs)
+  - [Security](#security)
+  - [Oracles](#oracles)
+  - [Indexers](#indexers)
+  - [Misc](#misc)
 - [Open-source projects](#open-source-projects)
-    - [Defi](#defi)
-    - [Gaming](#gaming-1)
-    - [Governance](#governance-1)
-    - [Misc](#misc-1)
+  - [Defi](#defi)
+  - [Gaming](#gaming-1)
+  - [Governance](#governance-1)
+  - [Misc](#misc-1)
 - [License](#license)
 
 ## Resources
@@ -89,6 +89,7 @@
 - [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns) - Cairo 1.0 interactives tutorials.
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
+- [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 
 #### Articles and Blogs
 
@@ -207,6 +208,7 @@
 - [Starknet Hardhat plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - The Starknet Hardhat plugin.
   - [starknet-hardhat-example](https://github.com/0xSpaceShard/starknet-hardhat-example)
 - [docker-cairo](https://github.com/xJonathanLEI/docker-cairo) - Multi-arch Docker images with Cairo binaries.
+- [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - A command-line tool designed to help developers quickly create Starknet Dapp projects. It offers multiple project templates.
 
 #### Starknet SDKs
 
@@ -258,6 +260,7 @@
 - [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - Vue.js boilerplate.
 - [starknet-url](https://github.com/myBraavos/starknet-url) - Build & parse Starknet URLs.
 - [starknet-deeplink](https://github.com/myBraavos/starknet-deeplink) - Starknet deeplink generator.
+- [Starknet-Dapp-Template](https://github.com/CerberusChaos/Starknet-Dapp-Template) - Starknet Dapp Template with Next.js 14+, Tailwind CSS 3, TypeScript, DaisyUI, and Starknet-React.
 
 #### Other libraries
 
