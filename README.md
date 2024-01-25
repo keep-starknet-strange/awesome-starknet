@@ -248,6 +248,10 @@
 - [graffiti](https://github.com/milancermak/graffiti) - Library for building XML based documents (SVG, HTML, RSS).
 - [Origami](https://github.com/dojoengine/origami) - Dojo's gaming library.
 
+#### Cairo plugins
+
+- [hello-cairo-plugin](https://github.com/piwonskp/hello-cairo-plugin) - Example Cairo plugin.
+
 #### Dapps libraries
 
 - [Starknet React](https://github.com/auclantis/starknet-react) - React hooks library.
