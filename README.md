@@ -96,7 +96,6 @@
 - [Starknet Blog Posts](https://www.starknet.io/en/posts) - Official blog.
 - [Developers Blog](https://www.starknet.io/en/posts/developers) - Official Developers Blog.
 - [Starknet research hub](https://starknet-research.beehiiv.com/) - The place to learn more about the Starket ecosystem and stay-up-to-date with the latest news.
-- [Starknet Edu Newsletter](https://starknet.substack.com/archive)
 - [Cairopractice](https://cairopractice.com/) - Cairo blog.
 
 #### Papers
@@ -109,9 +108,9 @@
 #### Cryptography and maths
 
 - Vitalik's STARKs series.
-  - [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
-  - [STARKs, Part 2: Thank Goodness it’s FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
-  - [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+  - [STARKs, Part I: Proofs with Polynomials](https://vitalik.eth.limo/general/2017/11/09/starks_part_1.html)
+  - [STARKs, Part 2: Thank Goodness it’s FRI-day](https://vitalik.eth.limo/general/2017/11/22/starks_part_2.html)
+  - [STARKs, Part 3: Into the Weeds](https://vitalik.eth.limo/general/2018/07/21/starks_part_3.html)
 - [Video: zk-STARKs Uncovered](https://www.youtube.com/watch?v=jg9KSNOO2XY) - Eli Ben-Sasson's Intense Masterclass, Basecamp Cohort.
 - [Video: STARK 101 Workshop](https://www.youtube.com/playlist?list=PLcIyXLwiPilWoXrDbmwHPxaH8Gxk5I_fG)
 - [Video: Stark @ Home](https://www.youtube.com/playlist?list=PLcIyXLwiPilUFGw7r2uyWerOkbx4GFMXq)
@@ -172,15 +171,13 @@
 - [Starknet Governance](https://www.starknet.io/en/community/governance) - Official Governance page.
 - [Snapshot proposals](https://snapshot.org/#/starknet.eth) - Snapshot proposals.
 - [Community discussions](https://community.starknet.io/c/governance/15)
-- [Delegate discovery](https://delegate.starknet.io/) - Finding delegates.
-- [Starknet Foundation](https://www.starknet.io/en/posts/governance/welcome-to-the-world-starknet-foundationn) - Introduction to the Starknet Foundation.
+- [Starknet Foundation](https://www.starknet.io/en/posts/governance/welcome-to-the-world-starknet-foundation) - Introduction to the Starknet Foundation.
 - [Starknet Foundation committees](https://www.starknet.io/en/posts/foundation/the-starknet-foundation-meet-the-committees) - Introduction to the Starknet Foundation committees.
 
 #### Events
 
 - [Upcoming events](https://www.starknet.io/en/events) - List of upcoming events.
 - [StarknetCC](https://www.starknet.cc/) - Starknet Community Conference.
-- [Starkware Sessions](https://starkwaresessions.co/)
 - [Starknet Summit](https://summit23.starknet.io/)
 
 #### Open-source and jobs
@@ -189,6 +186,7 @@
 - [OnlyDust](https://www.onlydust.xyz/) - Contribute to innovative projects.
 - [Ecosystem Jobs board](https://www.starknet.io/en/jobs) - Find a job with the best teams.
 - [Nethermind Jobs](https://www.nethermind.io/open-roles) - Join Nethermind's remote-first, close-knit crew of builders and tech professionals.
+- [Equilibrium Labs](https://equilibrium.co/join-us) - Explore the R&D company behind [Pathfinder](#node-implementations).
 
 ## Additional developer resources
 
@@ -204,7 +202,7 @@
   - [Starknet Foundry Forge Template](https://github.com/foundry-rs/starknet_forge_template)
 - [Starknet Remix](https://remix.ethereum.org/?#activate=Starknet) - The official Starknet plugin for Remix, a browser-based IDE without the need for any installation.
 - [Starknet Devnet](https://github.com/0xSpaceShard/starknet-devnet-rs) - Local testnet.
-- [Katana](https://book.dojoengine.org/toolchain/katana/overview.html) - High performance sequencer that can be used as a local testnet.
+- [Katana](https://book.dojoengine.org/toolchain/katana/overview) - High performance sequencer that can be used as a local testnet.
 - [Starknet Hardhat plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - The Starknet Hardhat plugin.
   - [starknet-hardhat-example](https://github.com/0xSpaceShard/starknet-hardhat-example)
 - [docker-cairo](https://github.com/xJonathanLEI/docker-cairo) - Multi-arch Docker images with Cairo binaries.
@@ -251,6 +249,10 @@
 - [xoroshiro-cairo](https://github.com/milancermak/xoroshiro-cairo) - Xoroshiro PRNG implementation in Cairo.
 - [graffiti](https://github.com/milancermak/graffiti) - Library for building XML based documents (SVG, HTML, RSS).
 - [Origami](https://github.com/dojoengine/origami) - Dojo's gaming library.
+
+#### Cairo plugins
+
+- [hello-cairo-plugin](https://github.com/piwonskp/hello-cairo-plugin) - Example Cairo plugin.
 
 #### Dapps libraries
 
@@ -379,5 +381,5 @@
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law,
-[Keep Starknet Strange](https://github.com/keep-starknet-strange) has waived all copyright
+Keep Starknet Strange has waived all copyright
 and related or neighboring rights to this work.
