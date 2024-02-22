@@ -363,6 +363,10 @@
 
 - [Carmine Governance](https://github.com/CarmineOptions/governance) - Carmine Governance contracts.
 
+#### Infrastructure
+
+- [Nori](https://github.com/keep-starknet-strange/nori) - RPC request router, proxy and load balancer.
+
 #### Misc
 
 - [Tokei](https://github.com/starknet-io/tokei) - ERC20 token streaming protocol.
