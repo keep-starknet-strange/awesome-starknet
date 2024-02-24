@@ -89,6 +89,7 @@
 - [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns) - Cairo 1.0 interactives tutorials.
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
+- [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 
 #### Articles and Blogs
 
@@ -205,6 +206,7 @@
 - [Starknet Hardhat plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - The Starknet Hardhat plugin.
   - [starknet-hardhat-example](https://github.com/0xSpaceShard/starknet-hardhat-example)
 - [docker-cairo](https://github.com/xJonathanLEI/docker-cairo) - Multi-arch Docker images with Cairo binaries.
+- [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - Command-line tool designed to help developers quickly create Starknet Dapp projects. It offers multiple project templates.
 
 #### Starknet SDKs
 
@@ -260,6 +262,7 @@
 - [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - Vue.js boilerplate.
 - [starknet-url](https://github.com/myBraavos/starknet-url) - Build & parse Starknet URLs.
 - [starknet-deeplink](https://github.com/myBraavos/starknet-deeplink) - Starknet deeplink generator.
+- [Starknet-Dapp-Template](https://github.com/CerberusChaos/Starknet-Dapp-Template) - Starknet Dapp Template with Next.js 14+, Tailwind CSS 3, TypeScript, DaisyUI, and Starknet-React.
 
 #### Other libraries
 
