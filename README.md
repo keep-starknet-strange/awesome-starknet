@@ -378,6 +378,7 @@
 - [Starknet.id](https://github.com/starknet-id) - On-chain identity.
 - [Carbon Protocol](https://github.com/Carbonable/carbon-protocol) - Carbon Protocol written in Cairo.
 - [StarkRevoke](https://github.com/yusufferdogan/STARKREVOKE) - Revoke your ERC20 and ERC721 approvals.
+- [Batchor](https://github.com/keep-starknet-strange/batchor) - Batch your ERC20 transfers with a CSV file.
 
 ---
 
