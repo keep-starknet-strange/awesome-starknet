@@ -279,6 +279,7 @@
 #### Sequencers
 
 - [Madara](https://github.com/keep-starknet-strange/madara) - Sequencer based on substrate.
+- [Kraken](https://github.com/lambdaclass/starknet_stack/tree/main/sequencer) - Sequencer by LambdaClass.
 - [Gomu Gomu no Gatling](https://github.com/keep-starknet-strange/gomu-gomu-no-gatling) - Benchmark tools for sequencers.
 
 #### ZkEvm
