@@ -276,7 +276,7 @@
 - [scure-starknet](https://github.com/paulmillr/scure-starknet) - Minimal JS implementation of Starknet cryptography.
 - [wasm-cairo](https://github.com/cryptonerdcn/wasm-cairo) - Wasm bindings for Cairo.
 - [starknet-abigen-rs](https://github.com/glihm/starknet-abigen-rs) - Cairo ABI parser and generator in Rust.
-- [starknet-devnet-js](https://github.com/0xSpaceShard/starknet-devnet-js) - Interact with Starknet Devnet using this JS provider.
+- [starknet-devnet-js](https://github.com/0xSpaceShard/starknet-devnet-js) - Interact with the Devnet using this JS provider.
 
 #### Sequencers
 
