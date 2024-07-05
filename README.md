@@ -328,7 +328,7 @@
 - [Checkpoint](https://checkpoint.fyi/#/) - GraphQL indexing library.
 - [Apibara](https://www.apibara.com/) - Open source indexer.
 - [dipdup-io/starknet-indexer](https://github.com/dipdup-io/starknet-indexer)
-- [SQD](https://sqd.dev/) - Web3’s largest data lake
+- [SQD](https://sqd.dev/) - Web3’s largest data lake.
 
 #### Misc
 
