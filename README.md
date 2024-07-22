@@ -250,6 +250,7 @@
 - [xoroshiro-cairo](https://github.com/milancermak/xoroshiro-cairo) - Xoroshiro PRNG implementation in Cairo.
 - [graffiti](https://github.com/milancermak/graffiti) - Library for building XML based documents (SVG, HTML, RSS).
 - [Origami](https://github.com/dojoengine/origami) - Dojo's gaming library.
+- [Cubit](https://github.com/influenceth/cubit) - A fixed point math library.
 
 #### Cairo plugins
 
