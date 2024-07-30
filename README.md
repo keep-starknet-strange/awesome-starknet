@@ -272,12 +272,15 @@
 
 - [Starknet in Rust](https://github.com/lambdaclass/starknet_in_rust#starknet) - Rust implementation of Starknet execution logic.
 - [starknet-zig](https://github.com/starknet-io/starknet-zig) - Starknet library in Zig.
+- [types-js](https://github.com/starknet-io/types-js) - TypeScript types.
 - [types-rs](https://github.com/starknet-io/types-rs) - Rust types.
 - [poseidon-rs](https://github.com/keep-starknet-strange/poseidon-rs) - Poseidon Rust library.
 - [cairo_native](https://github.com/lambdaclass/cairo_native) - Compiler to convert Sierra to machine code via MLIR and LLVM.
 - [tree-sitter-cairo](https://github.com/avnu-labs/tree-sitter-cairo) - Cairo 1.0 grammar for tree-sitter.
 - [scure-starknet](https://github.com/paulmillr/scure-starknet) - Minimal JS implementation of Starknet cryptography.
 - [wasm-cairo](https://github.com/cryptonerdcn/wasm-cairo) - Wasm bindings for Cairo.
+- [starknet-abigen-rs](https://github.com/glihm/starknet-abigen-rs) - Cairo ABI parser and generator in Rust.
+- [starknet-devnet-js](https://github.com/0xSpaceShard/starknet-devnet-js) - Interact with the Devnet using this JS provider.
 - [Cainome](https://github.com/cartridge-gg/cainome) - Library to generate bindings from Cairo ABI.
 
 #### Sequencers
