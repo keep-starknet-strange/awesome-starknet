@@ -27,44 +27,44 @@
 ### Contents
 
 - [Resources](#resources)
-    - [Official](#official)
-    - [Tutorials and Examples](#tutorials-and-examples)
-    - [Articles and Blogs](#articles-and-blogs)
-    - [Papers](#papers)
-    - [Cryptography and maths](#cryptography-and-maths)
-    - [Audits](#audits)
-    - [Wallet](#wallet)
-    - [Block explorers](#block-explorers)
-    - [Bridges and on-ramps](#bridges-and-on-ramps)
+  - [Official](#official)
+  - [Tutorials and Examples](#tutorials-and-examples)
+  - [Articles and Blogs](#articles-and-blogs)
+  - [Papers](#papers)
+  - [Cryptography and maths](#cryptography-and-maths)
+  - [Audits](#audits)
+  - [Wallet](#wallet)
+  - [Block explorers](#block-explorers)
+  - [Bridges and on-ramps](#bridges-and-on-ramps)
 - [Ecosystem](#ecosystem)
-    - [Dapps](#dapps)
-    - [Community](#community)
-    - [Governance](#governance)
-    - [Events](#events)
-    - [Open-source and jobs](#open-source-and-jobs)
+  - [Dapps](#dapps)
+  - [Community](#community)
+  - [Governance](#governance)
+  - [Events](#events)
+  - [Open-source and jobs](#open-source-and-jobs)
 - [Additional developer resources](#additional-developer-resources)
-    - [Developer Tools](#developer-tools)
-    - [Starknet SDKs](#starknet-sdks)
-    - [Cairo VMs](#cairo-vms)
-    - [Node implementations](#node-implementations)
-    - [Provers](#provers)
-    - [Cairo libraries](#cairo-libraries)
-    - [Dapps libraries](#dapps-libraries)
-    - [Other libraries](#other-libraries)
-    - [Sequencers](#sequencers)
-    - [ZkEvm](#zkevm)
-    - [Gaming](#gaming)
-    - [AI](#ai)
-    - [Storage Proofs](#storage-proofs)
-    - [Security](#security)
-    - [Oracles](#oracles)
-    - [Indexers](#indexers)
-    - [Misc](#misc)
+  - [Developer Tools](#developer-tools)
+  - [Starknet SDKs](#starknet-sdks)
+  - [Cairo VMs](#cairo-vms)
+  - [Node implementations](#node-implementations)
+  - [Provers](#provers)
+  - [Cairo libraries](#cairo-libraries)
+  - [Dapps libraries](#dapps-libraries)
+  - [Other libraries](#other-libraries)
+  - [Sequencers](#sequencers)
+  - [ZkEvm](#zkevm)
+  - [Gaming](#gaming)
+  - [AI](#ai)
+  - [Storage Proofs](#storage-proofs)
+  - [Security](#security)
+  - [Oracles](#oracles)
+  - [Indexers](#indexers)
+  - [Misc](#misc)
 - [Open-source projects](#open-source-projects)
-    - [Defi](#defi)
-    - [Gaming](#gaming-1)
-    - [Governance](#governance-1)
-    - [Misc](#misc-1)
+  - [Defi](#defi)
+  - [Gaming](#gaming-1)
+  - [Governance](#governance-1)
+  - [Misc](#misc-1)
 - [License](#license)
 
 ## Resources
@@ -89,13 +89,14 @@
 - [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns) - Cairo 1.0 interactives tutorials.
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
+- [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
+- [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
 
 #### Articles and Blogs
 
 - [Starknet Blog Posts](https://www.starknet.io/en/posts) - Official blog.
 - [Developers Blog](https://www.starknet.io/en/posts/developers) - Official Developers Blog.
 - [Starknet research hub](https://starknet-research.beehiiv.com/) - The place to learn more about the Starket ecosystem and stay-up-to-date with the latest news.
-- [Starknet Edu Newsletter](https://starknet.substack.com/archive)
 - [Cairopractice](https://cairopractice.com/) - Cairo blog.
 
 #### Papers
@@ -108,9 +109,9 @@
 #### Cryptography and maths
 
 - Vitalik's STARKs series.
-  - [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
-  - [STARKs, Part 2: Thank Goodness it’s FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
-  - [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+  - [STARKs, Part I: Proofs with Polynomials](https://vitalik.eth.limo/general/2017/11/09/starks_part_1.html)
+  - [STARKs, Part 2: Thank Goodness it’s FRI-day](https://vitalik.eth.limo/general/2017/11/22/starks_part_2.html)
+  - [STARKs, Part 3: Into the Weeds](https://vitalik.eth.limo/general/2018/07/21/starks_part_3.html)
 - [Video: zk-STARKs Uncovered](https://www.youtube.com/watch?v=jg9KSNOO2XY) - Eli Ben-Sasson's Intense Masterclass, Basecamp Cohort.
 - [Video: STARK 101 Workshop](https://www.youtube.com/playlist?list=PLcIyXLwiPilWoXrDbmwHPxaH8Gxk5I_fG)
 - [Video: Stark @ Home](https://www.youtube.com/playlist?list=PLcIyXLwiPilUFGw7r2uyWerOkbx4GFMXq)
@@ -166,21 +167,20 @@
 - [Twitter](https://twitter.com/Starknet) - Official tarknet Twitter.
 - [Telegram Core Stars](https://t.me/sncorestars) - Cairo Core Stars Pharaohs group.
 - [Online communities](https://www.starknet.io/en/community/online-communities) - List of online communities.
+- [Starknet MEV](https://t.me/+TiNIOKAdIyQzNDg0) - MEV group.
 
 #### Governance
 
 - [Starknet Governance](https://www.starknet.io/en/community/governance) - Official Governance page.
 - [Snapshot proposals](https://snapshot.org/#/starknet.eth) - Snapshot proposals.
 - [Community discussions](https://community.starknet.io/c/governance/15)
-- [Delegate discovery](https://delegate.starknet.io/) - Finding delegates.
-- [Starknet Foundation](https://www.starknet.io/en/posts/governance/welcome-to-the-world-starknet-foundationn) - Introduction to the Starknet Foundation.
+- [Starknet Foundation](https://www.starknet.io/en/posts/governance/welcome-to-the-world-starknet-foundation) - Introduction to the Starknet Foundation.
 - [Starknet Foundation committees](https://www.starknet.io/en/posts/foundation/the-starknet-foundation-meet-the-committees) - Introduction to the Starknet Foundation committees.
 
 #### Events
 
 - [Upcoming events](https://www.starknet.io/en/events) - List of upcoming events.
 - [StarknetCC](https://www.starknet.cc/) - Starknet Community Conference.
-- [Starkware Sessions](https://starkwaresessions.co/)
 - [Starknet Summit](https://summit23.starknet.io/)
 
 #### Open-source and jobs
@@ -189,6 +189,7 @@
 - [OnlyDust](https://www.onlydust.xyz/) - Contribute to innovative projects.
 - [Ecosystem Jobs board](https://www.starknet.io/en/jobs) - Find a job with the best teams.
 - [Nethermind Jobs](https://www.nethermind.io/open-roles) - Join Nethermind's remote-first, close-knit crew of builders and tech professionals.
+- [Equilibrium Labs](https://equilibrium.co/join-us) - Explore the R&D company behind [Pathfinder](#node-implementations).
 
 ## Additional developer resources
 
@@ -204,10 +205,11 @@
   - [Starknet Foundry Forge Template](https://github.com/foundry-rs/starknet_forge_template)
 - [Starknet Remix](https://remix.ethereum.org/?#activate=Starknet) - The official Starknet plugin for Remix, a browser-based IDE without the need for any installation.
 - [Starknet Devnet](https://github.com/0xSpaceShard/starknet-devnet-rs) - Local testnet.
-- [Katana](https://book.dojoengine.org/toolchain/katana/overview.html) - High performance sequencer that can be used as a local testnet.
+- [Katana](https://book.dojoengine.org/toolchain/katana/overview) - High performance sequencer that can be used as a local testnet.
 - [Starknet Hardhat plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - The Starknet Hardhat plugin.
   - [starknet-hardhat-example](https://github.com/0xSpaceShard/starknet-hardhat-example)
 - [docker-cairo](https://github.com/xJonathanLEI/docker-cairo) - Multi-arch Docker images with Cairo binaries.
+- [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - Command-line tool designed to help developers quickly create Starknet Dapp projects. It offers multiple project templates.
 
 #### Starknet SDKs
 
@@ -250,20 +252,27 @@
 - [xoroshiro-cairo](https://github.com/milancermak/xoroshiro-cairo) - Xoroshiro PRNG implementation in Cairo.
 - [graffiti](https://github.com/milancermak/graffiti) - Library for building XML based documents (SVG, HTML, RSS).
 - [Origami](https://github.com/dojoengine/origami) - Dojo's gaming library.
+- [Cubit](https://github.com/influenceth/cubit) - Fixed point math library.
+
+#### Cairo plugins
+
+- [hello-cairo-plugin](https://github.com/piwonskp/hello-cairo-plugin) - Example Cairo plugin.
 
 #### Dapps libraries
 
 - [Starknet React](https://github.com/auclantis/starknet-react) - React hooks library.
+- [get-starknet](https://github.com/starknet-io/get-starknet) - Starknet's official wallet SDK for developers.
 - [Starknetkit](https://www.starknetkit.com/docs/getting-started) - The wallet SDK for developers on Starknet.
-- [get-starknet](https://github.com/starknet-community-libs/get-starknet) - Wallet <-> dApp bridge.
 - [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - Vue.js boilerplate.
 - [starknet-url](https://github.com/myBraavos/starknet-url) - Build & parse Starknet URLs.
 - [starknet-deeplink](https://github.com/myBraavos/starknet-deeplink) - Starknet deeplink generator.
+- [Starknet-Dapp-Template](https://github.com/CerberusChaos/Starknet-Dapp-Template) - Starknet Dapp Template with Next.js 14+, Tailwind CSS 3, TypeScript, DaisyUI, and Starknet-React.
 
 #### Other libraries
 
 - [Starknet in Rust](https://github.com/lambdaclass/starknet_in_rust#starknet) - Rust implementation of Starknet execution logic.
 - [starknet-zig](https://github.com/starknet-io/starknet-zig) - Starknet library in Zig.
+- [types-js](https://github.com/starknet-io/types-js) - TypeScript types.
 - [types-rs](https://github.com/starknet-io/types-rs) - Rust types.
 - [poseidon-rs](https://github.com/keep-starknet-strange/poseidon-rs) - Poseidon Rust library.
 - [cairo_native](https://github.com/lambdaclass/cairo_native) - Compiler to convert Sierra to machine code via MLIR and LLVM.
@@ -271,10 +280,13 @@
 - [scure-starknet](https://github.com/paulmillr/scure-starknet) - Minimal JS implementation of Starknet cryptography.
 - [wasm-cairo](https://github.com/cryptonerdcn/wasm-cairo) - Wasm bindings for Cairo.
 - [starknet-abigen-rs](https://github.com/glihm/starknet-abigen-rs) - Cairo ABI parser and generator in Rust.
+- [starknet-devnet-js](https://github.com/0xSpaceShard/starknet-devnet-js) - Interact with the Devnet using this JS provider.
+- [Cainome](https://github.com/cartridge-gg/cainome) - Library to generate bindings from Cairo ABI.
 
 #### Sequencers
 
 - [Madara](https://github.com/keep-starknet-strange/madara) - Sequencer based on substrate.
+- [Kraken](https://github.com/lambdaclass/starknet_stack/tree/main/sequencer) - Sequencer by LambdaClass.
 - [Gomu Gomu no Gatling](https://github.com/keep-starknet-strange/gomu-gomu-no-gatling) - Benchmark tools for sequencers.
 
 #### ZkEvm
@@ -322,6 +334,7 @@
 - [Checkpoint](https://checkpoint.fyi/#/) - GraphQL indexing library.
 - [Apibara](https://www.apibara.com/) - Open source indexer.
 - [dipdup-io/starknet-indexer](https://github.com/dipdup-io/starknet-indexer)
+- [SQD](https://sqd.dev/) - Web3’s largest data lake.
 
 #### Misc
 
@@ -362,6 +375,10 @@
 
 - [Carmine Governance](https://github.com/CarmineOptions/governance) - Carmine Governance contracts.
 
+#### Infrastructure
+
+- [Nori](https://github.com/keep-starknet-strange/nori) - RPC request router, proxy and load balancer.
+
 #### Misc
 
 - [Tokei](https://github.com/starknet-io/tokei) - ERC20 token streaming protocol.
@@ -369,6 +386,8 @@
 - [Starknet.id](https://github.com/starknet-id) - On-chain identity.
 - [Carbon Protocol](https://github.com/Carbonable/carbon-protocol) - Carbon Protocol written in Cairo.
 - [StarkRevoke](https://github.com/yusufferdogan/STARKREVOKE) - Revoke your ERC20 and ERC721 approvals.
+- [Batchor](https://github.com/keep-starknet-strange/batchor) - Batch your ERC20 transfers with a CSV file.
+- [entro](https://github.com/NethermindEth/entro) - CLI tool to backfill and decode chain data.
 
 ---
 
@@ -377,5 +396,5 @@
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law,
-[Keep Starknet Strange](https://github.com/keep-starknet-strange) has waived all copyright
+Keep Starknet Strange has waived all copyright
 and related or neighboring rights to this work.
