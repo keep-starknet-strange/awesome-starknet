@@ -27,44 +27,44 @@
 ### Contents
 
 - [Resources](#resources)
-    - [Official](#official)
-    - [Tutorials and Examples](#tutorials-and-examples)
-    - [Articles and Blogs](#articles-and-blogs)
-    - [Papers](#papers)
-    - [Cryptography and maths](#cryptography-and-maths)
-    - [Audits](#audits)
-    - [Wallet](#wallet)
-    - [Block explorers](#block-explorers)
-    - [Bridges and on-ramps](#bridges-and-on-ramps)
+  - [Official](#official)
+  - [Tutorials and Examples](#tutorials-and-examples)
+  - [Articles and Blogs](#articles-and-blogs)
+  - [Papers](#papers)
+  - [Cryptography and maths](#cryptography-and-maths)
+  - [Audits](#audits)
+  - [Wallet](#wallet)
+  - [Block explorers](#block-explorers)
+  - [Bridges and on-ramps](#bridges-and-on-ramps)
 - [Ecosystem](#ecosystem)
-    - [Dapps](#dapps)
-    - [Community](#community)
-    - [Governance](#governance)
-    - [Events](#events)
-    - [Open-source and jobs](#open-source-and-jobs)
+  - [Dapps](#dapps)
+  - [Community](#community)
+  - [Governance](#governance)
+  - [Events](#events)
+  - [Open-source and jobs](#open-source-and-jobs)
 - [Additional developer resources](#additional-developer-resources)
-    - [Developer Tools](#developer-tools)
-    - [Starknet SDKs](#starknet-sdks)
-    - [Cairo VMs](#cairo-vms)
-    - [Node implementations](#node-implementations)
-    - [Provers](#provers)
-    - [Cairo libraries](#cairo-libraries)
-    - [Dapps libraries](#dapps-libraries)
-    - [Other libraries](#other-libraries)
-    - [Sequencers](#sequencers)
-    - [ZkEvm](#zkevm)
-    - [Gaming](#gaming)
-    - [AI](#ai)
-    - [Storage Proofs](#storage-proofs)
-    - [Security](#security)
-    - [Oracles](#oracles)
-    - [Indexers](#indexers)
-    - [Misc](#misc)
+  - [Developer Tools](#developer-tools)
+  - [Starknet SDKs](#starknet-sdks)
+  - [Cairo VMs](#cairo-vms)
+  - [Node implementations](#node-implementations)
+  - [Provers](#provers)
+  - [Cairo libraries](#cairo-libraries)
+  - [Dapps libraries](#dapps-libraries)
+  - [Other libraries](#other-libraries)
+  - [Sequencers](#sequencers)
+  - [ZkEvm](#zkevm)
+  - [Gaming](#gaming)
+  - [AI](#ai)
+  - [Storage Proofs](#storage-proofs)
+  - [Security](#security)
+  - [Oracles](#oracles)
+  - [Indexers](#indexers)
+  - [Misc](#misc)
 - [Open-source projects](#open-source-projects)
-    - [Defi](#defi)
-    - [Gaming](#gaming-1)
-    - [Governance](#governance-1)
-    - [Misc](#misc-1)
+  - [Defi](#defi)
+  - [Gaming](#gaming-1)
+  - [Governance](#governance-1)
+  - [Misc](#misc-1)
 - [License](#license)
 
 ## Resources
@@ -90,6 +90,7 @@
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
+- [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
 
 #### Articles and Blogs
 
@@ -157,6 +158,7 @@
 - [Starknet Ecosystem](https://starknet-ecosystem.com) -
   The [community-driven](https://github.com/419Labs/starknet-ecosystem.com) initiative to showcase projects and teams building.
 - [Dappland](https://www.dappland.com/) - Discover dapps.
+- [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/blockchains/starknet) - Discover the best of Ethereum and its layer 2s like Starknet. All in one place.
 
 #### Community
 
@@ -165,6 +167,7 @@
 - [Twitter](https://twitter.com/Starknet) - Official tarknet Twitter.
 - [Telegram Core Stars](https://t.me/sncorestars) - Cairo Core Stars Pharaohs group.
 - [Online communities](https://www.starknet.io/en/community/online-communities) - List of online communities.
+- [Starknet MEV](https://t.me/+TiNIOKAdIyQzNDg0) - MEV group.
 
 #### Governance
 
@@ -249,6 +252,7 @@
 - [xoroshiro-cairo](https://github.com/milancermak/xoroshiro-cairo) - Xoroshiro PRNG implementation in Cairo.
 - [graffiti](https://github.com/milancermak/graffiti) - Library for building XML based documents (SVG, HTML, RSS).
 - [Origami](https://github.com/dojoengine/origami) - Dojo's gaming library.
+- [Cubit](https://github.com/influenceth/cubit) - Fixed point math library.
 
 #### Cairo plugins
 
@@ -277,6 +281,7 @@
 - [wasm-cairo](https://github.com/cryptonerdcn/wasm-cairo) - Wasm bindings for Cairo.
 - [starknet-abigen-rs](https://github.com/glihm/starknet-abigen-rs) - Cairo ABI parser and generator in Rust.
 - [starknet-devnet-js](https://github.com/0xSpaceShard/starknet-devnet-js) - Interact with the Devnet using this JS provider.
+- [Cainome](https://github.com/cartridge-gg/cainome) - Library to generate bindings from Cairo ABI.
 
 #### Sequencers
 
@@ -329,6 +334,7 @@
 - [Checkpoint](https://checkpoint.fyi/#/) - GraphQL indexing library.
 - [Apibara](https://www.apibara.com/) - Open source indexer.
 - [dipdup-io/starknet-indexer](https://github.com/dipdup-io/starknet-indexer)
+- [SQD](https://sqd.dev/) - Web3’s largest data lake.
 
 #### Misc
 
@@ -381,6 +387,7 @@
 - [Carbon Protocol](https://github.com/Carbonable/carbon-protocol) - Carbon Protocol written in Cairo.
 - [StarkRevoke](https://github.com/yusufferdogan/STARKREVOKE) - Revoke your ERC20 and ERC721 approvals.
 - [Batchor](https://github.com/keep-starknet-strange/batchor) - Batch your ERC20 transfers with a CSV file.
+- [entro](https://github.com/NethermindEth/entro) - CLI tool to backfill and decode chain data.
 
 ---
 
