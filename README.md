@@ -18,7 +18,7 @@
 
   <p align="center">A curated list of awesome <a href="https://medium.com/starkware/starknet-alpha-is-coming-to-mainnet-b825829eaf32">Starknet</a> resources, libraries, tools and more.</p>
 
-  <p align="center">This list is based on Cairo 1. You can still access the previous archived <a href="CAIRO_0_ARCHIVE.md">Cairo 0 Awesome Starknet</a>.</p>
+  <p align="center">This list is based on Cairo 1. You can still access the previously archived <a href="CAIRO_0_ARCHIVE.md">Cairo 0 Awesome Starknet</a>.</p>
 
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
