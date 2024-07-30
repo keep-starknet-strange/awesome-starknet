@@ -167,6 +167,7 @@
 - [Twitter](https://twitter.com/Starknet) - Official tarknet Twitter.
 - [Telegram Core Stars](https://t.me/sncorestars) - Cairo Core Stars Pharaohs group.
 - [Online communities](https://www.starknet.io/en/community/online-communities) - List of online communities.
+- [Starknet MEV](https://t.me/+TiNIOKAdIyQzNDg0) - MEV group.
 
 #### Governance
 
