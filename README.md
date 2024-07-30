@@ -276,7 +276,7 @@
 - [tree-sitter-cairo](https://github.com/avnu-labs/tree-sitter-cairo) - Cairo 1.0 grammar for tree-sitter.
 - [scure-starknet](https://github.com/paulmillr/scure-starknet) - Minimal JS implementation of Starknet cryptography.
 - [wasm-cairo](https://github.com/cryptonerdcn/wasm-cairo) - Wasm bindings for Cairo.
-- [starknet-abigen-rs](https://github.com/glihm/starknet-abigen-rs) - Cairo ABI parser and generator in Rust.
+- [Cainome](https://github.com/cartridge-gg/cainome) - Library to generate bindings from Cairo ABI.
 
 #### Sequencers
 
