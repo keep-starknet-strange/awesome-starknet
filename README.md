@@ -85,7 +85,9 @@
 
 - [Starknet by Example](https://starknet-by-example.voyager.online/) - Collection of examples from beginner concepts to advanced.
 - [Cairo by Example](https://cairo-by-example.com/) - Introduction to Cairo, with simple examples.
-- [Starklings](https://github.com/shramee/starklings-cairo1) - Interactive tutorial to get you up and running with Cairo v1 and Starknet.
+- Starklings - Interactive tutorial to get you up and running with Cairo v1 and Starknet.
+  - [Source Code Repository](https://github.com/shramee/starklings-cairo1)
+  - [Web-based Interactive Tutorial](https://starklings.app/)
 - [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns) - Cairo 1.0 interactives tutorials.
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
