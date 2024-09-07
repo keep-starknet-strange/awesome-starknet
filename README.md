@@ -74,7 +74,7 @@
 - [Starknet Website](https://www.starknet.io/) - Official Website.
 - [Starknet Documentation](https://docs.starknet.io/documentation/) - Official Documentation.
 - [The Starknet Book](https://book.starknet.io/) - In-depth guide.
-- [Cairo Documentation](https://www.cairo-lang.org/docs/index.html) - Official Cairo 1.0 Documentation.
+- [Cairo Documentation](https://docs.cairo-lang.org/) - Official Cairo 1.0 Documentation.
 - [The Cairo Book](https://book.cairo-lang.org/) - In-depth guide to Cairo.
 - [YouTube channel](https://www.youtube.com/@starkware_ltd) - Official StarkWare YouTube channel.
 - [Roadmap](https://www.starknet.io/en/roadmap) - What’s coming next for Starknet.
