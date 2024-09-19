@@ -76,10 +76,11 @@
 - [The Starknet Book](https://book.starknet.io/) - In-depth guide.
 - [Cairo Documentation](https://www.cairo-lang.org/docs/index.html) - Official Cairo 1.0 Documentation.
 - [The Cairo Book](https://book.cairo-lang.org/) - In-depth guide to Cairo.
-- [YouTube channel](https://www.youtube.com/@starkware_ltd) - Official StarkWare YouTube channel.
 - [Roadmap](https://www.starknet.io/en/roadmap) - What’s coming next for Starknet.
 - [SNIPs](https://github.com/starknet-io/SNIPs) - Starknet Improvement Proposals (SNIPs) repository.
+- [StarkWare YouTube channel](https://www.youtube.com/@starkware_ltd) - Official StarkWare YouTube channel.
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Official Cairo Github repository.
+- [Starknet Foundation YouTube channel](https://www.youtube.com/@starknet_foundation) - Official Starknet Foundation YouTube channel.
 
 #### Tutorials and Examples
 
