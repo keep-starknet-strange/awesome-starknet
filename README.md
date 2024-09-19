@@ -95,7 +95,7 @@
 #### Articles and Blogs
 
 - [Starknet Blog Posts](https://www.starknet.io/en/posts) - Official blog.
-- [Developers Blog](https://www.starknet.io/en/posts/developers) - Official Developers Blog.
+- [Developers Blog]( https://www.starknet.io/blog/?category=developers) - Official Developers Blog.
 - [Starknet research hub](https://starknet-research.beehiiv.com/) - The place to learn more about the Starket ecosystem and stay-up-to-date with the latest news.
 - [Cairopractice](https://cairopractice.com/) - Cairo blog.
 
