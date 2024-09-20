@@ -83,10 +83,12 @@
 
 #### Tutorials and Examples
 
+- [Basecamp 9 recordings](https://youtube.com/playlist?list=PLMXIoXErTTYWyWg4AQVJP1N-7ZoYh4g1y&si=qnV18jtF2lOyU6K2) - Learn Starknet fundamentals, Cairo and smart contract examples with the Starknet Foundation team. 
 - [Starknet by Example](https://starknet-by-example.voyager.online/) - Collection of examples from beginner concepts to advanced.
 - [Cairo by Example](https://cairo-by-example.com/) - Introduction to Cairo, with simple examples.
 - [Starklings](https://github.com/shramee/starklings-cairo1) - Interactive tutorial to get you up and running with Cairo v1 and Starknet.
 - [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns) - Cairo 1.0 interactives tutorials.
+- [Speedrun Starknet](https://speedrunstark.com/) - Quests to practice writing smart contracts on Starknet.
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
