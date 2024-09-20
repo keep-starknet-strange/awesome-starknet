@@ -205,7 +205,7 @@
   - [Starknet Foundry Forge Template](https://github.com/foundry-rs/starknet_forge_template)
 - [Starknet Remix](https://remix.ethereum.org/?#activate=Starknet) - The official Starknet plugin for Remix, a browser-based IDE without the need for any installation.
 - [Starknet Devnet](https://github.com/0xSpaceShard/starknet-devnet-rs) - Local testnet.
-- [Katana](https://book.dojoengine.org/toolchain/katana/overview) - High performance sequencer that can be used as a local testnet.
+- [Katana](https://book.dojoengine.org/toolchain/katana) - High performance sequencer that can be used as a local testnet.
 - [Starknet Hardhat plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - The Starknet Hardhat plugin.
   - [starknet-hardhat-example](https://github.com/0xSpaceShard/starknet-hardhat-example)
 - [docker-cairo](https://github.com/xJonathanLEI/docker-cairo) - Multi-arch Docker images with Cairo binaries.
@@ -219,7 +219,7 @@
   - [starknet-rs-example](https://github.com/xJonathanLEI/starknet-rs/tree/master/examples)
 - [starknet.go](https://github.com/NethermindEth/starknet.go) - Golang library.
 - [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - Library for JVM languages (java, kotlin and others).
-- [starknet.dart](https://starknetdart.dev/) - Dart library for mobile.
+- [starknet.dart](https://github.com/focustree/starknet.dart) - Dart library for mobile.
 
 #### Cairo VMs
 
