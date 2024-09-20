@@ -327,7 +327,9 @@
 
 #### Oracles
 
+- [Chainlink Data Feeds](https://docs.chain.link/data-feeds/price-feeds/addresses?network=starknet&page=1&search=) - Real-world data available for DeFi dApps on Starknet.
 - [Pragma](https://www.pragmaoracle.com/) - Decentralized, transparent and composable oracle network.
+- [Pyth Data Feed](https://www.pyth.network/price-feeds) - Data from real-world markets.
 
 #### Indexers
 
