@@ -181,7 +181,6 @@
 
 - [Upcoming events](https://www.starknet.io/en/events) - List of upcoming events.
 - [StarknetCC](https://www.starknet.cc/) - Starknet Community Conference.
-- [Starknet Summit](https://summit23.starknet.io/)
 
 #### Open-source and jobs
 
@@ -209,7 +208,6 @@
 - [Starknet Hardhat plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - The Starknet Hardhat plugin.
   - [starknet-hardhat-example](https://github.com/0xSpaceShard/starknet-hardhat-example)
 - [docker-cairo](https://github.com/xJonathanLEI/docker-cairo) - Multi-arch Docker images with Cairo binaries.
-- [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - Command-line tool designed to help developers quickly create Starknet Dapp projects. It offers multiple project templates.
 
 #### Starknet SDKs
 
@@ -266,7 +264,6 @@
 - [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - Vue.js boilerplate.
 - [starknet-url](https://github.com/myBraavos/starknet-url) - Build & parse Starknet URLs.
 - [starknet-deeplink](https://github.com/myBraavos/starknet-deeplink) - Starknet deeplink generator.
-- [Starknet-Dapp-Template](https://github.com/CerberusChaos/Starknet-Dapp-Template) - Starknet Dapp Template with Next.js 14+, Tailwind CSS 3, TypeScript, DaisyUI, and Starknet-React.
 
 #### Other libraries
 
@@ -297,7 +294,6 @@
 
 - [Dojo Engine](https://book.dojoengine.org/) - The Provable Game Engine.
   - [Awesome Dojo](https://github.com/dojoengine/awesome-dojo) - Curated list of awesome Dojo resources.
-  - [dojo-examples](https://github.com/dojoengine/dojo-examples) - Dojo examples.
 - [Starknet Unity SDK](https://github.com/NethermindEth/starknet.unity)
 
 #### AI
