@@ -267,6 +267,8 @@
 - [starknet-url](https://github.com/myBraavos/starknet-url) - Build & parse Starknet URLs.
 - [starknet-deeplink](https://github.com/myBraavos/starknet-deeplink) - Starknet deeplink generator.
 - [Starknet-Dapp-Template](https://github.com/CerberusChaos/Starknet-Dapp-Template) - Starknet Dapp Template with Next.js 14+, Tailwind CSS 3, TypeScript, DaisyUI, and Starknet-React.
+- [Scaffold-Stark](https://scaffoldstark.com/)- Build dapps using NextJS, Starknet.js, Scarb, Starknet-React, Starknet Foundry and Typescript. 
+- [Starknet Scaffold](https://www.starknetscaffold.xyz/) - An [open-source](https://github.com/horuslabsio/Starknet-Scaffold) up-to-date toolkit for building decentralized applications (dapps) on Starknet.
 
 #### Other libraries
 
