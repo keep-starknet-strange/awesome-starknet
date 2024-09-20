@@ -91,6 +91,9 @@
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
+- [cairo-damn-vulnerable-defi](https://github.com/credence0x/cairo-damn-vulnerable-defi) - Cairo and Starknet challenges inspired by Capture the Ether. 
+- [Starknet-Security-Challenges](https://starknet-challenges.vercel.app/) - Cairo and Starknet challenges inspired by Capture the Ether. -
+- [not-so-smart-cairo](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cairo) - Examples of common Cairo smart contract vulnerabilities by Trail of Bits.
 
 #### Articles and Blogs
 
