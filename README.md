@@ -91,6 +91,7 @@
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
+- [StarknetCC 2024 Talks](https://www.youtube.com/playlist?list=PLD-8OseqjVebIVnFkMphAUEKPjCUB0siq)
 
 #### Articles and Blogs
 
