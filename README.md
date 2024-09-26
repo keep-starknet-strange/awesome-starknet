@@ -91,6 +91,7 @@
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
+- [Starknet's Counter Workshop](https://github.com/starknet-edu/counter-workshop) - Practice how to write an smart contract with Cairo with this step by step exercise.
 
 #### Articles and Blogs
 
