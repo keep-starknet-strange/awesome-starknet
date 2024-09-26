@@ -91,6 +91,7 @@
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
+- [Build a Game with Dojo](https://www.youtube.com/watch?v=4tVW0zCE7ug&ab_channel=StarknetFoundation) - Learn how to build a game on Starknet with Dojo, a Provable Game Engine.
 
 #### Articles and Blogs
 
