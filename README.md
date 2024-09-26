@@ -91,6 +91,7 @@
 - [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
+- [Analyzing onchain data with Apibara Integrations](https://www.youtube.com/watch?v=XCxAvuutks4&list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY&index=17&ab_channel=StarkWare) - Learn how to analyze onchain data on Starknet using Apibara and ChatGPT.
 
 #### Articles and Blogs
 
