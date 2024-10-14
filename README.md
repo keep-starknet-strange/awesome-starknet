@@ -89,6 +89,7 @@
   - [Source Code Repository](https://github.com/shramee/starklings-cairo1)
   - [Web-based Interactive Tutorial](https://starklings.app/)
 - [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns) - Cairo 1.0 interactives tutorials.
+- [Exercism Cairo Track](https://exercism.org/tracks/cairo) - Learn and master Cairo through hands-on exercises with community-powered mentorship.
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
