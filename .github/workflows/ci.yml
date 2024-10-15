@@ -20,7 +20,7 @@ jobs:
           awesome_bot README.md --allow-redirect \
           --request-delay 1 \
           --set-timeout 10 \
-          --white-list medium.com
+          --white-list medium.com,arxiv.org
       - name: Check Medium URLs
         run: |
           medium_urls=$(grep -Eo 'https?://[^[:space:]]+medium.com[^[:space:]]*' README.md)
@@ -28,4 +28,12 @@ jobs:
             echo "$medium_urls" | awesome_bot --allow-redirect --request-delay 10 --set-timeout 15 -
           else
             echo "No Medium URLs found"
+          fi
+      - name: Check arXiv URLs
+        run: |
+          arxiv_urls=$(grep -Eo 'https?://arxiv.org[^[:space:]]*' README.md)
+          if [ ! -z "$arxiv_urls" ]; then
+            echo "$arxiv_urls" | awesome_bot --allow-redirect --request-delay 120 --set-timeout 150 -
+          else
+            echo "No arXiv URLs found"
           fi
