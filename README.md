@@ -73,22 +73,24 @@
 
 - [Starknet Website](https://www.starknet.io/) - Official Website.
 - [Starknet Documentation](https://docs.starknet.io/documentation/) - Official Documentation.
-- [The Starknet Book](https://book.starknet.io/) - In-depth guide.
-- [Cairo Documentation](https://www.cairo-lang.org/docs/index.html) - Official Cairo 1.0 Documentation.
+- [Cairo Documentation](https://docs.cairo-lang.org/) - Official Cairo 1.0 Documentation.
 - [The Cairo Book](https://book.cairo-lang.org/) - In-depth guide to Cairo.
-- [YouTube channel](https://www.youtube.com/@starkware_ltd) - Official StarkWare YouTube channel.
 - [Roadmap](https://www.starknet.io/en/roadmap) - What’s coming next for Starknet.
 - [SNIPs](https://github.com/starknet-io/SNIPs) - Starknet Improvement Proposals (SNIPs) repository.
+- [StarkWare YouTube channel](https://www.youtube.com/@starkware_ltd) - Official StarkWare YouTube channel.
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Official Cairo Github repository.
+- [Starknet Foundation YouTube channel](https://www.youtube.com/@starknet_foundation) - Official Starknet Foundation YouTube channel.
 
 #### Tutorials and Examples
 
 - [Starknet by Example](https://starknet-by-example.voyager.online/) - Collection of examples from beginner concepts to advanced.
 - [Cairo by Example](https://cairo-by-example.com/) - Introduction to Cairo, with simple examples.
-- [Starklings](https://github.com/shramee/starklings-cairo1) - Interactive tutorial to get you up and running with Cairo v1 and Starknet.
+- Starklings - Interactive tutorial to get you up and running with Cairo v1 and Starknet.
+  - [Source Code Repository](https://github.com/shramee/starklings-cairo1)
+  - [Web-based Interactive Tutorial](https://starklings.app/)
 - [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns) - Cairo 1.0 interactives tutorials.
+- [Exercism Cairo Track](https://exercism.org/tracks/cairo) - Learn and master Cairo through hands-on exercises with community-powered mentorship.
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
-- [WTF Starknet](https://github.com/WTFAcademy/WTF-Starknet) - English and Chinese tutorials.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
 
@@ -181,7 +183,6 @@
 
 - [Upcoming events](https://www.starknet.io/en/events) - List of upcoming events.
 - [StarknetCC](https://www.starknet.cc/) - Starknet Community Conference.
-- [Starknet Summit](https://summit23.starknet.io/)
 
 #### Open-source and jobs
 
@@ -204,12 +205,12 @@
 - [Starknet Foundry](https://foundry-rs.github.io/starknet-foundry/) - Toolchain for smart contracts development, testing and deployment.
 - [Starknet Remix](https://remix.ethereum.org/?#activate=Starknet) - The official Starknet plugin for Remix, a browser-based IDE without the need for any installation.
 - [Starknet Devnet](https://github.com/0xSpaceShard/starknet-devnet-rs) - Local testnet.
-- [Katana](https://book.dojoengine.org/toolchain/katana/overview) - High performance sequencer that can be used as a local testnet.
 - [Starknet Hardhat plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - The Starknet Hardhat plugin.
   - [starknet-hardhat-example](https://github.com/0xSpaceShard/starknet-hardhat-example)
 - [docker-cairo](https://github.com/xJonathanLEI/docker-cairo) - Multi-arch Docker images with Cairo binaries.
 - [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - Command-line tool designed to help developers quickly create Starknet Dapp projects. It offers multiple project templates.
 - [cairo-profiler](https://github.com/software-mansion/cairo-profiler) - Profiler for Cairo.
+
 
 #### Starknet SDKs
 
@@ -262,11 +263,10 @@
 
 - [Starknet React](https://github.com/auclantis/starknet-react) - React hooks library.
 - [get-starknet](https://github.com/starknet-io/get-starknet) - Starknet's official wallet SDK for developers.
-- [Starknetkit](https://www.starknetkit.com/docs/getting-started) - The wallet SDK for developers on Starknet.
 - [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - Vue.js boilerplate.
 - [starknet-url](https://github.com/myBraavos/starknet-url) - Build & parse Starknet URLs.
 - [starknet-deeplink](https://github.com/myBraavos/starknet-deeplink) - Starknet deeplink generator.
-- [Starknet-Dapp-Template](https://github.com/CerberusChaos/Starknet-Dapp-Template) - Starknet Dapp Template with Next.js 14+, Tailwind CSS 3, TypeScript, DaisyUI, and Starknet-React.
+
 
 #### Other libraries
 
@@ -297,7 +297,6 @@
 
 - [Dojo Engine](https://book.dojoengine.org/) - The Provable Game Engine.
   - [Awesome Dojo](https://github.com/dojoengine/awesome-dojo) - Curated list of awesome Dojo resources.
-  - [dojo-examples](https://github.com/dojoengine/dojo-examples) - Dojo examples.
 - [Starknet Unity SDK](https://github.com/NethermindEth/starknet.unity)
 
 #### AI
@@ -383,7 +382,6 @@
 
 - [Tokei](https://github.com/starknet-io/tokei) - ERC20 token streaming protocol.
 - [Focus Tree](https://github.com/focustree/contracts) - Focus Tree Contracts.
-- [Starknet.id](https://github.com/starknet-id) - On-chain identity.
 - [Carbon Protocol](https://github.com/Carbonable/carbon-protocol) - Carbon Protocol written in Cairo.
 - [StarkRevoke](https://github.com/yusufferdogan/STARKREVOKE) - Revoke your ERC20 and ERC721 approvals.
 - [Batchor](https://github.com/keep-starknet-strange/batchor) - Batch your ERC20 transfers with a CSV file.
