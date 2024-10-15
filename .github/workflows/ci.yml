@@ -15,7 +15,7 @@ jobs:
           ruby-version: 2.6
       - name: Install awesome_bot
         run: gem install awesome_bot
-      - name: Check non-Medium URLs
+      - name: Check non-Medium/arXiv URLs
         run: |
           awesome_bot README.md --allow-redirect \
           --request-delay 1 \
@@ -25,7 +25,7 @@ jobs:
         run: |
           medium_urls=$(grep -Eo 'https?://[^[:space:]]+medium.com[^[:space:]]*' README.md)
           if [ ! -z "$medium_urls" ]; then
-            echo "$medium_urls" | awesome_bot --allow-redirect --request-delay 10 --set-timeout 15 -
+            awesome_bot $medium_urls --allow-redirect --request-delay 10 --set-timeout 15
           else
             echo "No Medium URLs found"
           fi
@@ -33,7 +33,7 @@ jobs:
         run: |
           arxiv_urls=$(grep -Eo 'https?://arxiv.org[^[:space:]]*' README.md)
           if [ ! -z "$arxiv_urls" ]; then
-            echo "$arxiv_urls" | awesome_bot --allow-redirect --request-delay 120 --set-timeout 150 -
+            awesome_bot $arxiv_urls --allow-redirect --request-delay 120 --set-timeout 150
           else
             echo "No arXiv URLs found"
           fi
