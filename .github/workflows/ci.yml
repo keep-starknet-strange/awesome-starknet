@@ -15,7 +15,7 @@ jobs:
           ruby-version: 2.6
       - name: Install awesome_bot
         run: gem install awesome_bot
-      - name: Check non-Medium/arXiv URLs
+      - name: Check non-Medium URLs
         run: |
           awesome_bot README.md --allow-redirect \
           --request-delay 1 \
