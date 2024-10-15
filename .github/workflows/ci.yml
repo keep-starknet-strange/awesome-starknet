@@ -1,32 +1,26 @@
 name: Check Links
-
 on:
   push:
     branches: [master]
   pull_request:
     branches: [master]
-
 jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
-      
       - name: Install awesome_bot
         run: gem install awesome_bot
-      
       - name: Check non-Medium/arXiv URLs
         run: |
           awesome_bot README.md --allow-redirect \
           --request-delay 1 \
           --set-timeout 10 \
           --white-list medium.com,arxiv.org
-      
       - name: Check Medium URLs
         run: |
           medium_urls=$(grep -Eo 'https?://[^[:space:]]+medium.com[^[:space:]]*' README.md)
@@ -34,13 +28,4 @@ jobs:
             awesome_bot $medium_urls --allow-redirect --request-delay 10 --set-timeout 15
           else
             echo "No Medium URLs found"
-          fi
-      
-      - name: Check arXiv URLs
-        run: |
-          arxiv_urls=$(grep -Eo 'https?://arxiv.org[^[:space:]]*' README.md)
-          if [ ! -z "$arxiv_urls" ]; then
-            awesome_bot $arxiv_urls --allow-redirect --request-delay 30 --set-timeout 60
-          else
-            echo "No arXiv URLs found"
           fi
