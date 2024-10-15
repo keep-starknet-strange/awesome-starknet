@@ -74,6 +74,7 @@
 - [Starknet Website](https://www.starknet.io/) - Official Website.
 - [Starknet Documentation](https://docs.starknet.io/documentation/) - Official Documentation.
 - [Cairo Documentation](https://docs.cairo-lang.org/) - Official Cairo 1.0 Documentation.
+- [Cairo Playground]( https://www.cairo-lang.org/cairovm/) - Experiment writing Cairo online without deploying a smart contract on Starknet.
 - [The Cairo Book](https://book.cairo-lang.org/) - In-depth guide to Cairo.
 - [Roadmap](https://www.starknet.io/en/roadmap) - What’s coming next for Starknet.
 - [SNIPs](https://github.com/starknet-io/SNIPs) - Starknet Improvement Proposals (SNIPs) repository.
