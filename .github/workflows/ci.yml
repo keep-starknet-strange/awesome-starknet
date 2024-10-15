@@ -15,11 +15,13 @@ jobs:
           ruby-version: 2.6
       - name: Install awesome_bot
         run: gem install awesome_bot
-      - name: Check URLs
-        run: |
-          awesome_bot README.md --allow-redirect --request-delay 0.2 \
-          --white-list medium.com
+      - name: Check non-Medium URLs
+        run: awesome_bot README.md --allow-redirect --request-delay 0.2 --white-list medium.com
       - name: Check Medium URLs
         run: |
-          grep -Eo 'https?://[^[:space:]]+medium.com[^[:space:]]*' README.md | \
-          xargs -I {} awesome_bot {} --allow-redirect --request-delay 5
+          medium_urls=$(grep -Eo 'https?://[^[:space:]]+medium.com[^[:space:]]*' README.md | tr '\n' ' ')
+          if [ ! -z "$medium_urls" ]; then
+            awesome_bot $medium_urls --allow-redirect --request-delay 5
+          else
+            echo "No Medium URLs found"
+          fi
