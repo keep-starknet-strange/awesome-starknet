@@ -1,11 +1,11 @@
-name: Build
+name: Check Links
 on:
   push:
     branches: [master]
   pull_request:
     branches: [master]
 jobs:
-  test:
+  check-links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,17 +15,17 @@ jobs:
           ruby-version: 2.6
       - name: Install awesome_bot
         run: gem install awesome_bot
-      - name: Check URLs
+      - name: Check non-Medium URLs
         run: |
           awesome_bot README.md --allow-redirect \
-          --request-delay 0.2 \
-          --set-timeout 5 \
+          --request-delay 1 \
+          --set-timeout 10 \
           --white-list medium.com
       - name: Check Medium URLs
         run: |
           medium_urls=$(grep -Eo 'https?://[^[:space:]]+medium.com[^[:space:]]*' README.md)
           if [ ! -z "$medium_urls" ]; then
-            echo "$medium_urls" | awesome_bot --allow-redirect --request-delay 5 -
+            echo "$medium_urls" | awesome_bot --allow-redirect --request-delay 10 --set-timeout 15 -
           else
             echo "No Medium URLs found"
           fi
