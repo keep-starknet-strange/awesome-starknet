@@ -202,6 +202,8 @@
 - [Scarb](https://docs.swmansion.com/scarb) - The recommended build toolchain and package manager.
 - [Vscode Cairo extension](https://marketplace.visualstudio.com/items?itemName=starkware.cairo1) - Official Cairo extension for VSCode with diagnostics, go-to-definition, completion and more.
 - [Vim plugin for Scarb projects](https://github.com/swan-of-bodom/scarb-vim)
+- [Vim syntax highlighting](https://gist.github.com/b-j-roberts/3d58102660d3522d0a498edd776196f2) - Vimscript syntax file supporting Cairo 1 and 0.
+- [Vim CoC Scarb language server](https://gist.github.com/b-j-roberts/d5ca5381c79ea3cdc6558f2080789cf6) - Scarb language server setup for the coc.nvim plugin.
 - [Starknet Foundry](https://foundry-rs.github.io/starknet-foundry/) - Toolchain for smart contracts development, testing and deployment.
 - [Starknet Remix](https://remix.ethereum.org/?#activate=Starknet) - The official Starknet plugin for Remix, a browser-based IDE without the need for any installation.
 - [Starknet Devnet](https://github.com/0xSpaceShard/starknet-devnet-rs) - Local testnet.
