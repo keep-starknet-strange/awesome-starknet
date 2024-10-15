@@ -200,6 +200,7 @@
 - [Setting up your environment](https://docs.starknet.io/documentation/quick_start/environment_setup/) - Environment setup guide.
 - [Starkli](https://book.starkli.rs) - The recommended CLI.
 - [Scarb](https://docs.swmansion.com/scarb) - The recommended build toolchain and package manager.
+- [scarbs.xyz](https://scarbs.xyz) - Cairo package repository.
 - [Vscode Cairo extension](https://marketplace.visualstudio.com/items?itemName=starkware.cairo1) - Official Cairo extension for VSCode with diagnostics, go-to-definition, completion and more.
 - [Vim plugin for Scarb projects](https://github.com/swan-of-bodom/scarb-vim)
 - [Vim syntax highlighting](https://gist.github.com/b-j-roberts/3d58102660d3522d0a498edd776196f2) - Vimscript syntax file supporting Cairo 1 and 0.
