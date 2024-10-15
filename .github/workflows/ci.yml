@@ -25,7 +25,9 @@ jobs:
         run: |
           medium_urls=$(grep -Eo 'https?://[^[:space:]]+medium.com[^[:space:]]*' README.md)
           if [ ! -z "$medium_urls" ]; then
-            awesome_bot $medium_urls --allow-redirect --request-delay 10 --set-timeout 15
+            echo "$medium_urls" > medium_urls.txt
+            awesome_bot medium_urls.txt --allow-redirect --request-delay 10 --set-timeout 15
+            rm medium_urls.txt
           else
             echo "No Medium URLs found"
           fi
