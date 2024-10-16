@@ -94,6 +94,7 @@
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
+- [Become a Starknet Core Developer](https://www.youtube.com/watch?v=7gT0XQA7WxQ&ab_channel=StarknetFoundation) - In-depth exploration of how to become a Core Developer on Starknet ecosystem.
 
 #### Articles and Blogs
 
