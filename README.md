@@ -148,6 +148,7 @@
 - [Voyager](https://voyager.online)
 - [Starkscan](https://starkscan.co/)
 - [Viewblock](https://viewblock.io/starknet)
+- [NFTScan](https://starknet.nftscan.com/) - Explore any NFT data on Starknet. 
 - [OKLink](https://www.oklink.com/starknet)
 - [Stark Compass](https://github.com/lambdaclass/stark_compass_explorer) - Open source explorer
 
@@ -155,6 +156,11 @@
 
 - [Starkgate](https://starkgate.starknet.io/) - The official bridge.
 - [Bridges and on-ramps](https://www.starknet.io/en/ecosystem/bridges-and-onramps) - List of bridges and on-ramps.
+
+#### Monitoring tools
+
+- [Starknet Monitor](https://www.starknet-monitor.com/) - Vital statistics about Starknet. 
+- [Starknet Status](https://status.starknet.io/) - Provides timely status information about the health of Starknet sequencing.
 
 ## Ecosystem
 
