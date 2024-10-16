@@ -140,6 +140,7 @@
 - [Braavos](https://braavos.app/)
 - [Argent X](https://www.argent.xyz/argent-x/)
 - [Metamask Snap](https://snaps.consensys.io/starknet)
+- [List of wallets available on Starknet](https://www.starknet.io/wallets/) 
 
 #### Block explorers
 
