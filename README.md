@@ -94,6 +94,7 @@
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
+- [STARK 101](https://starkware.co/stark-101/) - Hands-on tutorial on how to write a STARK prover from scratch (in Python).
 - [Starknet’s Account Abstraction Workshop](https://github.com/starknet-edu/aa-workshop) - Practice how to create an account contract with a single signer that uses the STARK-friendly elliptic curve to sign transactions.
 - [StarknetCC 2024 Talks](https://www.youtube.com/playlist?list=PLD-8OseqjVebIVnFkMphAUEKPjCUB0siq)
 - [Build a Game with Dojo](https://www.youtube.com/watch?v=4tVW0zCE7ug&ab_channel=StarknetFoundation) - Learn how to build a game on Starknet with Dojo, a Provable Game Engine.
