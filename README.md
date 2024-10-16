@@ -279,6 +279,8 @@
 - [vue-stark-boil](https://github.com/dontpanicdao/vue-stark-boil) - Vue.js boilerplate.
 - [starknet-url](https://github.com/myBraavos/starknet-url) - Build & parse Starknet URLs.
 - [starknet-deeplink](https://github.com/myBraavos/starknet-deeplink) - Starknet deeplink generator.
+- [Scaffold-Stark](https://scaffoldstark.com/)- Build dapps using NextJS, Starknet.js, Scarb, Starknet-React, Starknet Foundry and Typescript. 
+- [Starknet Scaffold](https://www.starknetscaffold.xyz/) - An [open-source](https://github.com/horuslabsio/Starknet-Scaffold) up-to-date toolkit for building decentralized applications (dapps) on Starknet.
 
 #### Other libraries
 
