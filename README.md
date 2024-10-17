@@ -93,16 +93,18 @@
 - [Exercism Cairo Track](https://exercism.org/tracks/cairo) - Learn and master Cairo through hands-on exercises with community-powered mentorship.
 - [Starknet messaging tutorial](https://github.com/glihm/starknet-messaging-dev) - Detailed tutorial to test messaging with Anvil and Katana.
 - [Starknet Lesson](https://www.starknet-lesson.com) - The latest and best Cairo course classroom.
-- [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
 - [Starknet AI agent](https://agent.starknet.id/) - AI-powered guide for Starknet learning, development, and Cairo coding assistance.
 - [Starknet's Counter Workshop](https://github.com/starknet-edu/counter-workshop) - Learn to write your first Cairo smart contract with this step-by-step exercise.
-- [Analyzing onchain data with Apibara Integrations](https://www.youtube.com/watch?v=XCxAvuutks4&list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY&index=17&ab_channel=StarkWare) - Learn how to analyze onchain data on Starknet using Apibara and ChatGPT.
 - [STARK 101](https://starkware.co/stark-101/) - Hands-on tutorial on how to write a STARK prover from scratch (in Python).
 - [Starknet’s Account Abstraction Workshop](https://github.com/starknet-edu/aa-workshop) - Practice how to create an account contract with a single signer that uses the STARK-friendly elliptic curve to sign transactions.
-- [StarknetCC 2024 Talks](https://www.youtube.com/playlist?list=PLD-8OseqjVebIVnFkMphAUEKPjCUB0siq)
+
+#### Video Resources
+- [Basecamp X recordings](https://www.youtube.com/playlist?list=PLMXIoXErTTYUJByl_2kK7wxxaETj-KGKZ) - Learn Starknet fundamentals, Cairo and smart contract examples with the Starknet Foundation team.
+- [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
+- [Analyzing onchain data with Apibara Integrations](https://www.youtube.com/watch?v=XCxAvuutks4&list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY&index=17&ab_channel=StarkWare) - Learn how to analyze onchain data on Starknet using Apibara and ChatGPT.
 - [Build a Game with Dojo](https://www.youtube.com/watch?v=4tVW0zCE7ug&ab_channel=StarknetFoundation) - Learn how to build a game on Starknet with Dojo, a Provable Game Engine.
 - [Become a Starknet Core Developer](https://www.youtube.com/watch?v=7gT0XQA7WxQ&ab_channel=StarknetFoundation) - In-depth exploration of how to become a Core Developer on Starknet ecosystem.
-
+- [StarknetCC 2024 Talks](https://www.youtube.com/playlist?list=PLD-8OseqjVebIVnFkMphAUEKPjCUB0siq)
 
 #### Articles and Blogs
 
