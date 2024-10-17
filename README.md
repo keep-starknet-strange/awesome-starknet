@@ -99,11 +99,11 @@
 - [Starknet’s Account Abstraction Workshop](https://github.com/starknet-edu/aa-workshop) - Practice how to create an account contract with a single signer that uses the STARK-friendly elliptic curve to sign transactions.
 
 #### Video Resources
-- [Basecamp X recordings](https://www.youtube.com/playlist?list=PLMXIoXErTTYUJByl_2kK7wxxaETj-KGKZ) - Learn Starknet fundamentals, Cairo and smart contract examples with the Starknet Foundation team.
-- [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Introduction to Starknet and Cairo.
-- [Analyzing onchain data with Apibara Integrations](https://www.youtube.com/watch?v=XCxAvuutks4&list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY&index=17&ab_channel=StarkWare) - Learn how to analyze onchain data on Starknet using Apibara and ChatGPT.
+- [Basecamp X recordings](https://www.youtube.com/playlist?list=PLMXIoXErTTYUJByl_2kK7wxxaETj-KGKZ) - Learn Starknet from basics to advanced with the Starknet Foundation team.
+- [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Video series teaching Starknet development and Cairo programming.
+- [Analyzing onchain data](https://www.youtube.com/watch?v=XCxAvuutks4&list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY&index=17&ab_channel=StarkWare) - Learn how to analyze onchain data on Starknet using Apibara and ChatGPT.
 - [Build a Game with Dojo](https://www.youtube.com/watch?v=4tVW0zCE7ug&ab_channel=StarknetFoundation) - Learn how to build a game on Starknet with Dojo, a Provable Game Engine.
-- [Become a Starknet Core Developer](https://www.youtube.com/watch?v=7gT0XQA7WxQ&ab_channel=StarknetFoundation) - In-depth exploration of how to become a Core Developer on Starknet ecosystem.
+- [Become a Starknet Core Developer](https://www.youtube.com/watch?v=7gT0XQA7WxQ&ab_channel=StarknetFoundation) - In-depth exploration of becoming a Core Developer in the Starknet ecosystem.
 - [StarknetCC 2024 Talks](https://www.youtube.com/playlist?list=PLD-8OseqjVebIVnFkMphAUEKPjCUB0siq)
 
 #### Articles and Blogs
