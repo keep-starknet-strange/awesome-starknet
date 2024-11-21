@@ -383,6 +383,11 @@
 - [Carmine Protocol](https://github.com/CarmineOptions/carmine-protocol) - Carmine Options AMM.
 - [10kswap Contracts](https://github.com/10k-swap/10k_swap-contracts) - Decentralized ZK Rollup AMM.
 - [ZkLend v1](https://github.com/zkLend/zklend-v1-core) - ZkLend v1 core contracts.
+- [Fibrous Contracts V1](https://github.com/Fibrous-Finance/fibrous-aggregator-contracts) - Fibrous Finance Router Contracts V1.
+- [Fibrous SDK](https://github.com/Fibrous-Finance/router-sdk) - Fibrous SDK.
+- [Fibrous Python SDK](https://github.com/Fibrous-Finance/router-python-sdk) - Fibrous Python SDK.
+- [Fibrous Limit Order SDK](https://github.com/Fibrous-Finance/limit-order-sdk) - Fibrous Limit Order SDK.
+- [Fibrous Limit Order Python SDK](https://github.com/Fibrous-Finance/limit-order-sdk-python) - Fibrous Limit Order Python SDK.
 
 #### Gaming
 
