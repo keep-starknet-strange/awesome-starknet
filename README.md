@@ -388,6 +388,8 @@
 - [Fibrous Python SDK](https://github.com/Fibrous-Finance/router-python-sdk) - Fibrous Python SDK.
 - [Fibrous Limit Order SDK](https://github.com/Fibrous-Finance/limit-order-sdk) - Fibrous Limit Order SDK.
 - [Fibrous Limit Order Python SDK](https://github.com/Fibrous-Finance/limit-order-sdk-python) - Fibrous Limit Order Python SDK.
+- [Pragma Liquidator Bot](https://github.com/astraly-labs/vesu-liquidator) - Automated bot that monitors & liquidates positions.
+- [Vesu Liquidator Contract](https://github.com/vesuxyz/vesu-liquidate)
 
 #### Gaming
 
