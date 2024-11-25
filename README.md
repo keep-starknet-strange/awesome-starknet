@@ -249,7 +249,13 @@
 - [cairo-vm](https://github.com/lambdaclass/cairo-vm) - Rust implementation of the Cairo VM.
 - [cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - Golang implementation of the Cairo VM.
 - [cairo-vm_in_go](https://github.com/lambdaclass/cairo-vm_in_go) - Another Golang implementation.
+- [cairo-vm-ts](https://github.com/kkrt-labs/cairo-vm-ts) - Typescript implementation of the Cairo VM.
+- [cairo-vm-gs](https://github.com/ClementWalter/cairo-vm-gs) - Google app script implementation of the Cairo VM.
 - [cairo-zig](https://github.com/keep-starknet-strange/cairo-zig) - Zig implementation of the Cairo VM.
+
+#### Operating systems
+
+- [SNOS](https://github.com/keep-starknet-strange/snos/) - Rust Library for running the Starknet OS via the Cairo VM
 
 #### Node implementations
 
@@ -258,6 +264,7 @@
 - [Pathfinder](https://github.com/eqlabs/pathfinder) - Rust full-node implementation.
 - [Deoxys](https://github.com/KasarLabs/deoxys) - Substrate full-node implementation.
 - [Beerus](https://github.com/keep-starknet-strange/beerus) - Rust light-client implementation.
+- [Cairo Hints](https://github.com/reilabs/cairo-hints) - Extension to Cairo language, it allows supplementing programs with data that is difficult to obtain in ZK circuits.
 
 #### Provers
 
@@ -308,7 +315,8 @@
 
 #### Sequencers
 
-- [Madara](https://github.com/keep-starknet-strange/madara) - Sequencer based on substrate.
+- [Madara](https://github.com/madara-alliance/madara) - Sequencer based on substrate.
+- [StarkWare Sequencer](https://github.com/starkware-libs/sequencer)
 - [Kraken](https://github.com/lambdaclass/starknet_stack/tree/main/sequencer) - Sequencer by LambdaClass.
 - [Gomu Gomu no Gatling](https://github.com/keep-starknet-strange/gomu-gomu-no-gatling) - Benchmark tools for sequencers.
 
