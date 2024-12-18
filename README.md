@@ -231,7 +231,7 @@
   - [starknet-hardhat-example](https://github.com/0xSpaceShard/starknet-hardhat-example)
 - [docker-cairo](https://github.com/xJonathanLEI/docker-cairo) - Multi-arch Docker images with Cairo binaries.
 - [cairo-profiler](https://github.com/software-mansion/cairo-profiler) - Profiler for Cairo.
-
+- [walnut](https://walnut.dev/) - Walnut is a transaction debugger and simulator.
 
 
 #### Starknet SDKs
