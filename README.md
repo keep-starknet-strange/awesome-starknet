@@ -185,7 +185,7 @@
 
 - [Starknet Community Forum](https://community.starknet.io/) - Official forum.
 - [Discord](https://starknet.io/discord) - Official Discord.
-- [Twitter](https://twitter.com/Starknet) - Official tarknet Twitter.
+- [Twitter](https://twitter.com/Starknet) - Official Starknet Twitter.
 - [Telegram Core Stars](https://t.me/sncorestars) - Cairo Core Stars Pharaohs group.
 - [Online communities](https://www.starknet.io/en/community/online-communities) - List of online communities.
 - [Starknet MEV](https://t.me/+TiNIOKAdIyQzNDg0) - MEV group.
