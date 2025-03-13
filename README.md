@@ -225,6 +225,7 @@
 - [Vim CoC Scarb language server](https://gist.github.com/b-j-roberts/d5ca5381c79ea3cdc6558f2080789cf6) - Scarb language server setup for the coc.nvim plugin.
 - [Starknet Foundry](https://foundry-rs.github.io/starknet-foundry/) - Toolchain for smart contracts development, testing and deployment.
 - [Starknet Remix](https://remix.ethereum.org/?#activate=Starknet) - The official Starknet plugin for Remix, a browser-based IDE without the need for any installation.
+- [Starknet Deploy](https://github.com/olas-protocol/starknet-deploy) - Tool to streamline the deployment and interaction of contracts.
 - [Starknet Devnet](https://github.com/0xSpaceShard/starknet-devnet-rs) - Local testnet.
 - [Katana](https://book.dojoengine.org/toolchain/katana) - High performance sequencer that can be used as a local testnet.
 - [Starknet Hardhat plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - The Starknet Hardhat plugin.
