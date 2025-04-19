@@ -110,7 +110,7 @@
 
 - [Starknet Blog Posts](https://www.starknet.io/en/posts) - Official blog.
 - [Developers Blog]( https://www.starknet.io/blog/?category=developers) - Official Developers Blog.
-- [Starknet research hub](https://starknet-research.beehiiv.com/) - The place to learn more about the Starket ecosystem and stay-up-to-date with the latest news.
+- [Starknet research hub](https://starknet-research.beehiiv.com/) - The place to learn more about the Starknet ecosystem and stay-up-to-date with the latest news.
 - [Cairopractice](https://cairopractice.com/) - Cairo blog.
 
 #### Papers
@@ -185,7 +185,7 @@
 
 - [Starknet Community Forum](https://community.starknet.io/) - Official forum.
 - [Discord](https://starknet.io/discord) - Official Discord.
-- [Twitter](https://twitter.com/Starknet) - Official tarknet Twitter.
+- [Twitter](https://twitter.com/Starknet) - Official Starknet Twitter.
 - [Telegram Core Stars](https://t.me/sncorestars) - Cairo Core Stars Pharaohs group.
 - [Online communities](https://www.starknet.io/en/community/online-communities) - List of online communities.
 - [Starknet MEV](https://t.me/+TiNIOKAdIyQzNDg0) - MEV group.
