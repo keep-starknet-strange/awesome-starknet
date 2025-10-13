@@ -59,6 +59,7 @@
   - [Security](#security)
   - [Oracles](#oracles)
   - [Indexers](#indexers)
+  - [Block Explorers](#block-explorers)
   - [Misc](#misc)
 - [Open-source projects](#open-source-projects)
   - [Defi](#defi)
@@ -359,6 +360,10 @@
 - [Apibara](https://www.apibara.com/) - Open source indexer.
 - [dipdup-io/starknet-indexer](https://github.com/dipdup-io/starknet-indexer)
 - [SQD](https://sqd.dev/) - Web3’s largest data lake.
+
+#### Block Explorer
+
+- [Cosmos](https://github.com/justmert/cosmos) - Lightweight block explorer designed for local development with devnet environments.
 
 #### Misc
 
