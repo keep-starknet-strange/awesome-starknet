@@ -101,7 +101,7 @@
 #### Video Resources
 - [Basecamp X recordings](https://www.youtube.com/playlist?list=PLMXIoXErTTYUJByl_2kK7wxxaETj-KGKZ) - Learn Starknet from basics to advanced with the Starknet Foundation team.
 - [Cairo Zero to Hero](https://www.youtube.com/playlist?list=PLAHFj7-3e6Lz_gSRsearGALkTduJZFdlt) - Video series teaching Starknet development and Cairo programming.
-- [Analyzing onchain data](https://www.youtube.com/watch?v=XCxAvuutks4&list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY&index=17&ab_channel=StarkWare) - Learn how to analyze onchain data on Starknet using Apibara and ChatGPT.
+- [yzing onchain data](https://www.youtube.com/watch?v=XCxAvuutks4&list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY&index=17&ab_channel=StarkWare) - Learn how to yze onchain data on Starknet using Apibara and ChatGPT.
 - [Build a Game with Dojo](https://www.youtube.com/watch?v=4tVW0zCE7ug&ab_channel=StarknetFoundation) - Learn how to build a game on Starknet with Dojo, a Provable Game Engine.
 - [Become a Starknet Core Developer](https://www.youtube.com/watch?v=7gT0XQA7WxQ&ab_channel=StarknetFoundation) - In-depth exploration of becoming a Core Developer in the Starknet ecosystem.
 - [StarknetCC 2024 Talks](https://www.youtube.com/playlist?list=PLD-8OseqjVebIVnFkMphAUEKPjCUB0siq)
@@ -112,6 +112,7 @@
 - [Developers Blog]( https://www.starknet.io/blog/?category=developers) - Official Developers Blog.
 - [Starknet research hub](https://starknet-research.beehiiv.com/) - The place to learn more about the Starket ecosystem and stay-up-to-date with the latest news.
 - [Cairopractice](https://cairopractice.com/) - Cairo blog.
+  
 
 #### Papers
 
@@ -327,8 +328,9 @@
 - [Gizatech](https://www.gizatech.xyz/)
   - [Orion](https://orion.gizatech.xyz/welcome/readme) - Provable Machine Learning framework.
   - [Tic-Tac-Stark](https://github.com/gizatechxyz/Tic-Tac-Stark) - Provable Tic-Tac-Toe AI model using Orion and Cairo.
-- [neural-network-cairo](https://github.com/franalgaba/neural-network-cairo) - Neural Network implementation from scratch for MNIST.
+- [neural-network-cairo](https://github.com/frgaba/neural-network-cairo) - Neural Network implementation from scratch for MNIST.
 - [drive-ai](https://github.com/cartridge-gg/drive-ai) - Self driving car AI with Dojo.
+- [Chartscout](https://chartscout.io/) - Real-Time Detection. Scans Startknet pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds.
 
 #### Storage Proofs
 
@@ -336,9 +338,9 @@
 
 #### Security
 
-- [Caracal](https://github.com/crytic/caracal) - Static Analyzer for smart contracts.
+- [Caracal](https://github.com/crytic/caracal) - Static yzer for smart contracts.
 - [semgrep-cairo-rules](https://github.com/avnu-labs/semgrep-cairo-rules) - Semgrep rules for Cairo 1.0.
-- [Toth](https://github.com/FuzzingLabs/thoth) - Security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC).
+- [Toth](https://github.com/FuzzingLabs/thoth) - Security toolkit (bytecode yzer, disassembler, decompiler, symbolic execution, SBMC).
 - [Underhanded Cairo](https://cairopractice.com/tags/security/)
 - [An introduction to Cairo 1 smart-contracts security](https://antoinemecker.medium.com/an-introduction-to-cairo-1-smart-contracts-security-1f96792b998a)
 - [Under the hood of Cairo 1.0: Exploring Sierra](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5)
