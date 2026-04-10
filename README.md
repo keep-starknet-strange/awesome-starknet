@@ -84,6 +84,7 @@
 
 #### Tutorials and Examples
 
+- [LearnAI — StarkNet Interactive Course](https://www.uselearnai.com/chat?topic=StarkNet) — AI-powered personal tutor for learning StarkNet from scratch through conversation
 - [Starknet by Example](https://starknet-by-example.voyager.online/) - Collection of examples from beginner concepts to advanced.
 - [Cairo by Example](https://cairo-by-example.com/) - Introduction to Cairo, with simple examples.
 - Starklings - Interactive tutorial to get you up and running with Cairo v1 and Starknet.
