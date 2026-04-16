@@ -209,6 +209,7 @@
 - [OnlyDust](https://www.onlydust.xyz/) - Contribute to innovative projects.
 - [Nethermind Jobs](https://www.nethermind.io/open-roles) - Join Nethermind's remote-first, close-knit crew of builders and tech professionals.
 - [Equilibrium Labs](https://equilibrium.co/join-us) - Explore the R&D company behind [Pathfinder](#node-implementations).
+- [web3vacancy](https://web3vacancy.com) - #1 Crypto & Web3 Job Board. Where crypto teams hire. Where builders get found.
 
 ## Additional developer resources
 
