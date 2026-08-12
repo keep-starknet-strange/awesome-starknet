@@ -171,6 +171,7 @@
 
 - [Starknet Monitor](https://www.starknet-monitor.com/) - Vital statistics about Starknet. 
 - [Starknet Status](https://status.starknet.io/) - Provides timely status information about the health of Starknet sequencing.
+- [OpenChainBench](https://openchainbench.com) - Real-time RPC latency, block time, and L1 finality benchmarks for Starknet — with cross-rollup comparison to Linea, zkSync, Scroll, and Polygon zkEVM.
 
 ## Ecosystem
 
