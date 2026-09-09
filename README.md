@@ -376,6 +376,7 @@
 
 - [Satoru](https://github.com/keep-starknet-strange/satoru) - Synthetics platform, inspired by GMX v2 design.
   - [zohal-interface](https://github.com/Zohal-Starknet/zohal-interface) - Zohal's Satoru interface.
+- [StarkLP Lab](https://github.com/lucascpas23/starklp-lab) - Open-source LP risk and capital-efficiency analytics with Ekubo historical replay and AVNU execution benchmarks.
 - [YAS](https://github.com/lambdaclass/yet-another-swap) - YAS is Yet Another Swap.
 - [Avnu Contracts](https://github.com/avnu-labs/avnu-contracts-v2) - Liquidity aggregator written in Cairo.
   - [Avnu SDK](https://github.com/avnu-labs/avnu-sdk)
