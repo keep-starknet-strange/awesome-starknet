@@ -150,6 +150,7 @@
 
 - [Braavos](https://braavos.app/)
 - [Argent X](https://www.argent.xyz/argent-x/)
+- [Cavos](https://cavos.xyz/embedded-starknet-wallet) - Embedded wallet SDK with passkey and social login, an audited OpenZeppelin account contract and gas sponsorship.
 - [Metamask Snap](https://snaps.consensys.io/starknet)
 - [List of wallets available on Starknet](https://www.starknet.io/wallets/) 
 
