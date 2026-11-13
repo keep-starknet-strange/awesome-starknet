@@ -336,7 +336,7 @@
 
 #### Security
 
-- [Cairo Smart Contract Hacking](https://cairo.smartcontractshacking.com/) - Paid course covering Cairo 2 and Starknet smart contract security.
+- [Cairo Smart Contract Hacking](https://cairo.smartcontractshacking.com/) - Paid course covering Cairo 2 smart contract security.
 - [Caracal](https://github.com/crytic/caracal) - Static Analyzer for smart contracts.
 - [semgrep-cairo-rules](https://github.com/avnu-labs/semgrep-cairo-rules) - Semgrep rules for Cairo 1.0.
 - [Toth](https://github.com/FuzzingLabs/thoth) - Security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC).
